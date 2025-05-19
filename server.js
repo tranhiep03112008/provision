@@ -1,5 +1,4 @@
-﻿
-require('dotenv').config();
+﻿require('dotenv').config();
 var cors = require('cors');
 let Telegram      = require('node-telegram-bot-api');
 let TelegramToken = '5292816313:AAEdq7d4gqXGN80gJYV3PMZDTskkxT5za00';
@@ -16,7 +15,7 @@ app.use(cors({
     origin: '*',
     optionsSuccessStatus: 200
 }));
-let port       = process.env.PORT || 80;
+const port = process.env.PORT || 80;  // dùng process.env.PORT ưu tiên
 let expressWs  = require('express-ws')(app);
 let bodyParser = require('body-parser');
 var morgan = require('morgan');
