@@ -1,0 +1,26 @@
+{
+  "name": "Server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "express-wss": "^1.1.0",
+    "node-tmux": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tranhiep03112008/provision.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tranhiep03112008/provision/issues"
+  },
+  "homepage": "https://github.com/tranhiep03112008/provision#readme"
+}
