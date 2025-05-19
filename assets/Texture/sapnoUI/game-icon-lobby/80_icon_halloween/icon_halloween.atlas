@@ -1,0 +1,111 @@
+
+icon_halloween.png
+size: 188,872
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 372
+  size: 174, 170
+  orig: 176, 172
+  offset: 1, 1
+  index: -1
+dau
+  rotate: true
+  xy: 2, 544
+  size: 142, 175
+  orig: 144, 177
+  offset: 1, 1
+  index: -1
+i
+  rotate: false
+  xy: 159, 57
+  size: 24, 43
+  orig: 27, 47
+  offset: 1, 3
+  index: -1
+k
+  rotate: true
+  xy: 112, 63
+  size: 37, 45
+  orig: 40, 47
+  offset: 2, 1
+  index: -1
+khung
+  rotate: false
+  xy: 2, 688
+  size: 184, 180
+  orig: 186, 182
+  offset: 1, 1
+  index: -1
+khung-light
+  rotate: false
+  xy: 2, 209
+  size: 174, 161
+  orig: 176, 172
+  offset: 1, 10
+  index: -1
+light
+  rotate: false
+  xy: 102, 21
+  size: 40, 40
+  orig: 44, 44
+  offset: 2, 2
+  index: -1
+light2
+  rotate: true
+  xy: 2, 107
+  size: 100, 116
+  orig: 119, 137
+  offset: 10, 11
+  index: -1
+lua
+  rotate: true
+  xy: 144, 35
+  size: 20, 39
+  orig: 20, 39
+  offset: 0, 0
+  index: -1
+m
+  rotate: true
+  xy: 58, 63
+  size: 42, 52
+  orig: 45, 54
+  offset: 2, 1
+  index: -1
+mieng
+  rotate: true
+  xy: 120, 102
+  size: 105, 63
+  orig: 107, 65
+  offset: 1, 1
+  index: -1
+n
+  rotate: true
+  xy: 2, 36
+  size: 36, 51
+  orig: 40, 54
+  offset: 2, 2
+  index: -1
+nen
+  rotate: true
+  xy: 2, 2
+  size: 32, 41
+  orig: 34, 44
+  offset: 1, 1
+  index: -1
+p
+  rotate: true
+  xy: 2, 74
+  size: 31, 54
+  orig: 34, 57
+  offset: 1, 2
+  index: -1
+u
+  rotate: true
+  xy: 55, 26
+  size: 35, 45
+  orig: 37, 47
+  offset: 1, 1
+  index: -1

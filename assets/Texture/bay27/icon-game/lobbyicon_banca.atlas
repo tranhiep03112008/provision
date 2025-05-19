@@ -1,0 +1,48 @@
+
+lobbyicon_banca.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light333
+  rotate: false
+  xy: 475, 154
+  size: 114, 153
+  orig: 114, 153
+  offset: 0, 0
+  index: -1
+lotden
+  rotate: false
+  xy: 2, 72
+  size: 1, 1
+  orig: 239, 385
+  offset: 0, 0
+  index: -1
+map
+  rotate: false
+  xy: 243, 88
+  size: 230, 369
+  orig: 230, 369
+  offset: 0, 0
+  index: -1
+matca
+  rotate: false
+  xy: 696, 422
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+song2
+  rotate: false
+  xy: 475, 309
+  size: 219, 148
+  orig: 219, 148
+  offset: 0, 0
+  index: -1
+textbanca
+  rotate: false
+  xy: 2, 2
+  size: 219, 68
+  orig: 219, 68
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,56 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "activePhone",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.02,
+  "sample": 50,
+  "speed": 1,
+  "wrapMode": 0,
+  "curveData": {
+    "props": {
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 0.6,
+            "y": 0.6
+          }
+        },
+        {
+          "frame": 0.02,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 0.6,
+            "y": 0.6
+          }
+        }
+      ]
+    },
+    "paths": {
+      "\bmsg": {
+        "props": {
+          "scale": []
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0,
+      "func": "",
+      "params": []
+    }
+  ]
+}

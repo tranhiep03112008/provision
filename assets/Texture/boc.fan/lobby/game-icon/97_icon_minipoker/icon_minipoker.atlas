@@ -1,0 +1,97 @@
+
+icon_minipoker.png
+size: 733,733
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 327
+  size: 394, 404
+  orig: 396, 406
+  offset: 1, 1
+  index: -1
+card2
+  rotate: false
+  xy: 544, 22
+  size: 176, 83
+  orig: 179, 85
+  offset: 1, 1
+  index: -1
+card3
+  rotate: false
+  xy: 484, 107
+  size: 181, 58
+  orig: 184, 61
+  offset: 1, 2
+  index: -1
+card4
+  rotate: false
+  xy: 109, 22
+  size: 137, 78
+  orig: 139, 80
+  offset: 1, 1
+  index: -1
+khung
+  rotate: false
+  xy: 398, 330
+  size: 184, 180
+  orig: 184, 180
+  offset: 0, 0
+  index: -1
+khung-light
+  rotate: false
+  xy: 484, 167
+  size: 174, 161
+  orig: 174, 169
+  offset: 0, 8
+  index: -1
+light
+  rotate: false
+  xy: 2, 102
+  size: 252, 223
+  orig: 290, 249
+  offset: 25, 26
+  index: -1
+light (2)
+  rotate: false
+  xy: 618, 605
+  size: 113, 126
+  orig: 115, 128
+  offset: 1, 1
+  index: -1
+light4
+  rotate: false
+  xy: 2, 5
+  size: 105, 95
+  orig: 120, 108
+  offset: 10, 13
+  index: -1
+lightpink
+  rotate: false
+  xy: 398, 512
+  size: 218, 219
+  orig: 244, 245
+  offset: 13, 13
+  index: -1
+mini
+  rotate: true
+  xy: 584, 347
+  size: 163, 66
+  orig: 165, 68
+  offset: 1, 1
+  index: -1
+poker
+  rotate: false
+  xy: 256, 32
+  size: 286, 73
+  orig: 288, 75
+  offset: 1, 1
+  index: -1
+poker1
+  rotate: true
+  xy: 256, 107
+  size: 218, 226
+  orig: 220, 228
+  offset: 1, 1
+  index: -1

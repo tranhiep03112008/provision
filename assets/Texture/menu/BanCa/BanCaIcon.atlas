@@ -1,0 +1,97 @@
+
+BanCaIcon.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Baén Caù
+  rotate: false
+  xy: 2, 129
+  size: 264, 87
+  orig: 264, 87
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 721, 251
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+MATNHAM
+  rotate: false
+  xy: 268, 180
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+TAM
+  rotate: false
+  xy: 147, 3
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+bg
+  rotate: true
+  xy: 2, 218
+  size: 292, 534
+  orig: 292, 534
+  offset: 0, 0
+  index: -1
+ca 1
+  rotate: false
+  xy: 913, 419
+  size: 97, 91
+  orig: 97, 91
+  offset: 0, 0
+  index: -1
+ca2
+  rotate: true
+  xy: 538, 166
+  size: 114, 123
+  orig: 114, 123
+  offset: 0, 0
+  index: -1
+ca3
+  rotate: true
+  xy: 538, 282
+  size: 228, 297
+  orig: 228, 297
+  offset: 0, 0
+  index: -1
+cay
+  rotate: false
+  xy: 663, 195
+  size: 56, 85
+  orig: 56, 85
+  offset: 0, 0
+  index: -1
+cay3
+  rotate: false
+  xy: 837, 329
+  size: 74, 181
+  orig: 74, 181
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 2, 2
+  size: 143, 125
+  orig: 143, 125
+  offset: 0, 0
+  index: -1
+long
+  rotate: false
+  xy: 837, 292
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+mu
+  rotate: false
+  xy: 913, 345
+  size: 92, 72
+  orig: 92, 72
+  offset: 0, 0
+  index: -1

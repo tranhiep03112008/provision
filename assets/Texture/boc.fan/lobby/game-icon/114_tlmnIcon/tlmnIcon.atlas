@@ -1,0 +1,139 @@
+
+tlmnIcon.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: true
+  xy: 191, 8
+  size: 93, 110
+  orig: 93, 110
+  offset: 0, 0
+  index: -1
+a2
+  rotate: true
+  xy: 343, 31
+  size: 106, 115
+  orig: 106, 115
+  offset: 0, 0
+  index: -1
+a3
+  rotate: false
+  xy: 343, 139
+  size: 113, 115
+  orig: 113, 115
+  offset: 0, 0
+  index: -1
+c1
+  rotate: false
+  xy: 460, 49
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+c2
+  rotate: false
+  xy: 149, 33
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+c3
+  rotate: true
+  xy: 460, 95
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+l
+  rotate: true
+  xy: 2, 6
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+len
+  rotate: true
+  xy: 303, 50
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+mien
+  rotate: true
+  xy: 458, 173
+  size: 81, 41
+  orig: 81, 41
+  offset: 0, 0
+  index: -1
+nam
+  rotate: false
+  xy: 2, 30
+  size: 75, 36
+  orig: 75, 36
+  offset: 0, 0
+  index: -1
+o
+  rotate: false
+  xy: 458, 144
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+o1
+  rotate: false
+  xy: 303, 21
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+s
+  rotate: true
+  xy: 31, 6
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 487, 148
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 487, 148
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+s3
+  rotate: false
+  xy: 149, 2
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+tien
+  rotate: false
+  xy: 79, 25
+  size: 68, 41
+  orig: 68, 41
+  offset: 0, 0
+  index: -1
+tron1
+  rotate: false
+  xy: 191, 103
+  size: 150, 151
+  orig: 150, 151
+  offset: 0, 0
+  index: -1
+tron2
+  rotate: false
+  xy: 2, 68
+  size: 187, 186
+  orig: 187, 186
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "b608703b-68ca-4879-9d5a-9d1d51f65167",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 52,
+  "height": 52,
+  "platformSettings": {},
+  "subMetas": {
+    "vien_icon_tai_xiu_soi_cau": {
+      "ver": "1.0.4",
+      "uuid": "64fcb38b-ee8a-4248-a05f-236789fcac7b",
+      "rawTextureUuid": "b608703b-68ca-4879-9d5a-9d1d51f65167",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 52,
+      "height": 52,
+      "rawWidth": 52,
+      "rawHeight": 52,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

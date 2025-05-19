@@ -1,0 +1,861 @@
+{
+  "ID": "8aed2575-3aa7-4883-a2cc-0c9083e50480",
+  "Version": "3.10.0.0",
+  "Name": "TxMainChainNode",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 367,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "TxImageRevise/ball-bg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0,
+              "Y": -11
+            },
+            "Scale": {
+              "ScaleX": 1,
+              "ScaleY": 1
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0,
+              "Y": 0
+            },
+            "PreSize": {
+              "X": 0,
+              "Y": 0
+            },
+            "LeftMargin": -335.5,
+            "RightMargin": -335.5,
+            "TopMargin": -22.5,
+            "BottomMargin": -44.5,
+            "Tag": 111,
+            "ActionTag": 1171329711,
+            "Size": {
+              "X": 671,
+              "Y": 67
+            },
+            "Name": "Sprite_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleX": 1,
+              "ScaleY": 0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0,
+              "Y": 0
+            },
+            "Scale": {
+              "ScaleX": 1,
+              "ScaleY": 1
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0,
+              "Y": 0
+            },
+            "PreSize": {
+              "X": 0,
+              "Y": 0
+            },
+            "LeftMargin": -310.5,
+            "RightMargin": -310.5,
+            "TopMargin": -20.5,
+            "BottomMargin": -20.5,
+            "Tag": 428,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "TxResCode/dotTai.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 37,
+                "Scale9Height": 37,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 72.673,
+                  "Y": 20.5
+                },
+                "Scale": {
+                  "ScaleX": 1,
+                  "ScaleY": 1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.117,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0596,
+                  "Y": 0.9024
+                },
+                "LeftMargin": 54.173,
+                "RightMargin": 529.827,
+                "TopMargin": 2,
+                "BottomMargin": 2,
+                "Tag": 431,
+                "ActionTag": -1969108128,
+                "Size": {
+                  "X": 37,
+                  "Y": 37
+                },
+                "Name": "dot_0",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "TxResCode/dotTai.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 37,
+                "Scale9Height": 37,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 107.1873,
+                  "Y": 20.5
+                },
+                "Scale": {
+                  "ScaleX": 1,
+                  "ScaleY": 1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.1726,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0596,
+                  "Y": 0.9024
+                },
+                "LeftMargin": 88.6873,
+                "RightMargin": 495.3127,
+                "TopMargin": 2,
+                "BottomMargin": 2,
+                "Tag": 432,
+                "ActionTag": 533423045,
+                "Size": {
+                  "X": 37,
+                  "Y": 37
+                },
+                "Name": "dot_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "TxResCode/dotTai.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 37,
+                "Scale9Height": 37,
+                "AnchorPoint": {
+                  "ScaleX": 0.5997,
+                  "ScaleY": 0.4613
+                },
+                "Position": {
+                  "X": 145.391,
+                  "Y": 20.5
+                },
+                "Scale": {
+                  "ScaleX": 1,
+                  "ScaleY": 1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.2341,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0596,
+                  "Y": 0.9024
+                },
+                "LeftMargin": 123.2016,
+                "RightMargin": 460.7984,
+                "TopMargin": 0.5668,
+                "BottomMargin": 3.4332,
+                "Tag": 433,
+                "ActionTag": -87282199,
+                "Size": {
+                  "X": 37,
+                  "Y": 37
+                },
+                "Name": "dot_2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "TxResCode/dotTai.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 37,
+                "Scale9Height": 37,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 175.216,
+                  "Y": 20.5
+                },
+                "Scale": {
+                  "ScaleX": 1,
+                  "ScaleY": 1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.2822,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0596,
+                  "Y": 0.9024
+                },
+                "LeftMargin": 156.716,
+                "RightMargin": 427.284,
+                "TopMargin": 2,
+                "BottomMargin": 2,
+                "Tag": 434,
+                "ActionTag": 463062151,
+                "Size": {
+                  "X": 37,
+                  "Y": 37
+                },
+                "Name": "dot_3",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "TxResCode/dotTai.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 37,
+                "Scale9Height": 37,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 209.7303,
+                  "Y": 20.5
+                },
+                "Scale": {
+                  "ScaleX": 1,
+                  "ScaleY": 1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.3377,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0596,
+                  "Y": 0.9024
+                },
+                "LeftMargin": 191.2303,
+                "RightMargin": 392.7697,
+                "TopMargin": 2,
+                "BottomMargin": 2,
+                "Tag": 435,
+                "ActionTag": -2079733114,
+                "Size": {
+                  "X": 37,
+                  "Y": 37
+                },
+                "Name": "dot_4",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "TxResCode/dotTai.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 37,
+                "Scale9Height": 37,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 243.2446,
+                  "Y": 20.5
+                },
+                "Scale": {
+                  "ScaleX": 1,
+                  "ScaleY": 1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.3917,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0596,
+                  "Y": 0.9024
+                },
+                "LeftMargin": 224.7446,
+                "RightMargin": 359.2554,
+                "TopMargin": 2,
+                "BottomMargin": 2,
+                "Tag": 436,
+                "ActionTag": 1823056375,
+                "Size": {
+                  "X": 37,
+                  "Y": 37
+                },
+                "Name": "dot_5",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "TxResCode/dotTai.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 37,
+                "Scale9Height": 37,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 277.759,
+                  "Y": 20.5
+                },
+                "Scale": {
+                  "ScaleX": 1,
+                  "ScaleY": 1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4473,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0596,
+                  "Y": 0.9024
+                },
+                "LeftMargin": 259.259,
+                "RightMargin": 324.741,
+                "TopMargin": 2,
+                "BottomMargin": 2,
+                "Tag": 437,
+                "ActionTag": -572353180,
+                "Size": {
+                  "X": 37,
+                  "Y": 37
+                },
+                "Name": "dot_6",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "TxResCode/dotTai.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 37,
+                "Scale9Height": 37,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 311.2732,
+                  "Y": 20.5
+                },
+                "Scale": {
+                  "ScaleX": 1,
+                  "ScaleY": 1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5012,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0596,
+                  "Y": 0.9024
+                },
+                "LeftMargin": 292.7732,
+                "RightMargin": 291.2268,
+                "TopMargin": 2,
+                "BottomMargin": 2,
+                "Tag": 438,
+                "ActionTag": -1157712714,
+                "Size": {
+                  "X": 37,
+                  "Y": 37
+                },
+                "Name": "dot_7",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "TxResCode/dotTai.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 37,
+                "Scale9Height": 37,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 344.7876,
+                  "Y": 20.5
+                },
+                "Scale": {
+                  "ScaleX": 1,
+                  "ScaleY": 1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5552,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0596,
+                  "Y": 0.9024
+                },
+                "LeftMargin": 326.2876,
+                "RightMargin": 257.7124,
+                "TopMargin": 2,
+                "BottomMargin": 2,
+                "Tag": 439,
+                "ActionTag": -1127738543,
+                "Size": {
+                  "X": 37,
+                  "Y": 37
+                },
+                "Name": "dot_8",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "TxResCode/dotTai.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 37,
+                "Scale9Height": 37,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 378.3011,
+                  "Y": 20.5
+                },
+                "Scale": {
+                  "ScaleX": 1,
+                  "ScaleY": 1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.6092,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0596,
+                  "Y": 0.9024
+                },
+                "LeftMargin": 359.8011,
+                "RightMargin": 224.1989,
+                "TopMargin": 2,
+                "BottomMargin": 2,
+                "Tag": 440,
+                "ActionTag": 577897136,
+                "Size": {
+                  "X": 37,
+                  "Y": 37
+                },
+                "Name": "dot_9",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "TxResCode/dotTai.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 37,
+                "Scale9Height": 37,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 412.8161,
+                  "Y": 20.5
+                },
+                "Scale": {
+                  "ScaleX": 1,
+                  "ScaleY": 1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.6648,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0596,
+                  "Y": 0.9024
+                },
+                "LeftMargin": 394.3161,
+                "RightMargin": 189.6839,
+                "TopMargin": 2,
+                "BottomMargin": 2,
+                "Tag": 441,
+                "ActionTag": -1486096196,
+                "Size": {
+                  "X": 37,
+                  "Y": 37
+                },
+                "Name": "dot_10",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "TxResCode/dotTai.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 37,
+                "Scale9Height": 37,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 448.3306,
+                  "Y": 20.5
+                },
+                "Scale": {
+                  "ScaleX": 1,
+                  "ScaleY": 1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.7219,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0596,
+                  "Y": 0.9024
+                },
+                "LeftMargin": 429.8306,
+                "RightMargin": 154.1694,
+                "TopMargin": 2,
+                "BottomMargin": 2,
+                "Tag": 442,
+                "ActionTag": 862237137,
+                "Size": {
+                  "X": 37,
+                  "Y": 37
+                },
+                "Name": "dot_11",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "TxResCode/dotTai.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 37,
+                "Scale9Height": 37,
+                "AnchorPoint": {
+                  "ScaleX": 0.425,
+                  "ScaleY": 0.5335
+                },
+                "Position": {
+                  "X": 480.071,
+                  "Y": 20.5
+                },
+                "Scale": {
+                  "ScaleX": 1,
+                  "ScaleY": 1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.7731,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0596,
+                  "Y": 0.9024
+                },
+                "LeftMargin": 464.3462,
+                "RightMargin": 119.6538,
+                "TopMargin": 3.2411,
+                "BottomMargin": 0.7589,
+                "Tag": 443,
+                "ActionTag": 1590867829,
+                "Size": {
+                  "X": 37,
+                  "Y": 37
+                },
+                "Name": "dot_12",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "TxResCode/dotTai.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 37,
+                "Scale9Height": 37,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 517.3595,
+                  "Y": 20.5
+                },
+                "Scale": {
+                  "ScaleX": 1,
+                  "ScaleY": 1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.8331,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0596,
+                  "Y": 0.9024
+                },
+                "LeftMargin": 498.8595,
+                "RightMargin": 85.1405,
+                "TopMargin": 2,
+                "BottomMargin": 2,
+                "Tag": 444,
+                "ActionTag": -1231501216,
+                "Size": {
+                  "X": 37,
+                  "Y": 37
+                },
+                "Name": "dot_13",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "TxResCode/dotTai.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 37,
+                "Scale9Height": 37,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 551.8749,
+                  "Y": 20.5
+                },
+                "Scale": {
+                  "ScaleX": 1,
+                  "ScaleY": 1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.8887,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0596,
+                  "Y": 0.9024
+                },
+                "LeftMargin": 533.3749,
+                "RightMargin": 50.6251,
+                "TopMargin": 2,
+                "BottomMargin": 2,
+                "Tag": 445,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "TxImageRevise/dot_SangOutline.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 18.5,
+                      "Y": 18.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1,
+                      "ScaleY": 1
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0541,
+                      "Y": 1.0541
+                    },
+                    "LeftMargin": -1,
+                    "RightMargin": -1,
+                    "TopMargin": -1,
+                    "BottomMargin": -1,
+                    "Tag": 140,
+                    "ActionTag": 1175805172,
+                    "Size": {
+                      "X": 39,
+                      "Y": 39
+                    },
+                    "Name": "dot_Sang",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 338248066,
+                "Size": {
+                  "X": 37,
+                  "Y": 37
+                },
+                "Name": "dot_14",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 542600298,
+            "Size": {
+              "X": 621,
+              "Y": 41
+            },
+            "Name": "pnlChain",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0,
+          "Y": 0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "TxImageRevise/ball-bg.png",
+        "TxImageRevise/dot_SangOutline.png",
+        "TxResCode/dotTai.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

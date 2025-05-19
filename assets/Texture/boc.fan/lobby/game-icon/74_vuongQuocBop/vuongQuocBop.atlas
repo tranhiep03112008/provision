@@ -1,0 +1,63 @@
+
+vuongQuocBop.png
+size: 595,230
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+VQBtitle_icon1
+  rotate: false
+  xy: 373, 85
+  size: 166, 61
+  orig: 168, 65
+  offset: 1, 2
+  index: -1
+VQBtitle_icon2
+  rotate: false
+  xy: 373, 148
+  size: 220, 80
+  orig: 221, 83
+  offset: 0, 1
+  index: -1
+bg
+  rotate: true
+  xy: 2, 4
+  size: 224, 369
+  orig: 225, 370
+  offset: 1, 0
+  index: -1
+c_0000_Layer-4
+  rotate: true
+  xy: 541, 65
+  size: 81, 42
+  orig: 81, 42
+  offset: 0, 0
+  index: -1
+c_0001_Layer-3
+  rotate: true
+  xy: 417, 2
+  size: 81, 40
+  orig: 81, 41
+  offset: 0, 0
+  index: -1
+c_0002_Layer-2
+  rotate: true
+  xy: 459, 2
+  size: 81, 40
+  orig: 81, 41
+  offset: 0, 0
+  index: -1
+c_0003_Layer-1
+  rotate: true
+  xy: 373, 2
+  size: 81, 42
+  orig: 81, 44
+  offset: 0, 1
+  index: -1
+c_0004_Layer-5
+  rotate: false
+  xy: 585, 78
+  size: 7, 68
+  orig: 8, 68
+  offset: 0, 0
+  index: -1
+

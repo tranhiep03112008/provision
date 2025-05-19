@@ -1,0 +1,103 @@
+taiXiuIcon.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 323, 16
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+i
+  rotate: true
+  xy: 84, 2
+  size: 19, 38
+  orig: 19, 38
+  offset: 0, 0
+  index: -1
+i2
+  rotate: false
+  xy: 135, 21
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 335, 145
+  size: 105, 108
+  orig: 105, 108
+  offset: 0, 0
+  index: -1
+s2
+  rotate: true
+  xy: 212, 3
+  size: 96, 109
+  orig: 96, 109
+  offset: 0, 0
+  index: -1
+s3
+  rotate: false
+  xy: 84, 23
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+s4
+  rotate: false
+  xy: 84, 23
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+t
+  rotate: false
+  xy: 323, 58
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+tron1
+  rotate: false
+  xy: 183, 101
+  size: 150, 152
+  orig: 150, 152
+  offset: 0, 0
+  index: -1
+tron2
+  rotate: false
+  xy: 2, 74
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+u
+  rotate: true
+  xy: 335, 110
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+x
+  rotate: true
+  xy: 170, 31
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+xucxac
+  rotate: false
+  xy: 357, 5
+  size: 100, 103
+  orig: 100, 103
+  offset: 0, 0
+  index: -1
+xucxac2
+  rotate: false
+  xy: 2, 4
+  size: 80, 68
+  orig: 80, 68
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+icon_banmaybay.png
+size: 896,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ban
+  rotate: false
+  xy: 582, 133
+  size: 83, 53
+  orig: 86, 56
+  offset: 1, 2
+  index: -1
+bay
+  rotate: true
+  xy: 711, 13
+  size: 82, 42
+  orig: 85, 44
+  offset: 1, 1
+  index: -1
+bg
+  rotate: true
+  xy: 2, 188
+  size: 332, 673
+  orig: 332, 673
+  offset: 0, 0
+  index: -1
+bom
+  rotate: false
+  xy: 582, 50
+  size: 36, 26
+  orig: 38, 28
+  offset: 1, 1
+  index: -1
+canhquat
+  rotate: true
+  xy: 582, 78
+  size: 53, 78
+  orig: 59, 78
+  offset: 5, 0
+  index: -1
+daucanh
+  rotate: false
+  xy: 620, 59
+  size: 18, 17
+  orig: 20, 19
+  offset: 1, 1
+  index: -1
+line boder
+  rotate: true
+  xy: 2, 2
+  size: 184, 368
+  orig: 184, 368
+  offset: 0, 0
+  index: -1
+may
+  rotate: true
+  xy: 662, 8
+  size: 87, 47
+  orig: 90, 49
+  offset: 1, 1
+  index: -1
+maybay
+  rotate: true
+  xy: 677, 97
+  size: 423, 216
+  orig: 425, 233
+  offset: 1, 16
+  index: -1
+opacity
+  rotate: true
+  xy: 372, 7
+  size: 179, 208
+  orig: 179, 209
+  offset: 0, 0
+  index: -1

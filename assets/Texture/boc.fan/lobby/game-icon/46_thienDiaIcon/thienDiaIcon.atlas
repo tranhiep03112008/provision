@@ -1,0 +1,118 @@
+
+thienDiaIcon.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 643
+  rotate: false
+  xy: 341, 98
+  size: 150, 149
+  orig: 150, 149
+  offset: 0, 0
+  index: -1
+Rounded Rectangle 7
+  rotate: false
+  xy: 2, 60
+  size: 186, 187
+  orig: 186, 187
+  offset: 0, 0
+  index: -1
+Rounded Rectangle 8
+  rotate: false
+  xy: 190, 95
+  size: 149, 152
+  orig: 149, 152
+  offset: 0, 0
+  index: -1
+a
+  rotate: false
+  xy: 795, 214
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+amduong
+  rotate: false
+  xy: 493, 114
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+d
+  rotate: false
+  xy: 831, 214
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+down
+  rotate: false
+  xy: 2, 2
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+e
+  rotate: true
+  xy: 190, 63
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+h
+  rotate: false
+  xy: 55, 23
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+i
+  rotate: true
+  xy: 130, 33
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+i2
+  rotate: true
+  xy: 233, 69
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+n
+  rotate: false
+  xy: 754, 169
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 95, 25
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 628, 131
+  size: 124, 116
+  orig: 124, 116
+  offset: 0, 0
+  index: -1
+t
+  rotate: false
+  xy: 754, 132
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+up
+  rotate: false
+  xy: 754, 206
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+banca.png
+size: 727,490
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+asca
+  rotate: true
+  xy: 292, 229
+  size: 260, 263
+  orig: 265, 269
+  offset: 3, 2
+  index: -1
+banca
+  rotate: true
+  xy: 663, 1
+  size: 185, 63
+  orig: 188, 64
+  offset: 1, 1
+  index: -1
+bg
+  rotate: true
+  xy: 292, 1
+  size: 226, 369
+  orig: 227, 370
+  offset: 0, 1
+  index: -1
+bgbt
+  rotate: true
+  xy: 557, 229
+  size: 178, 143
+  orig: 180, 144
+  offset: 1, 1
+  index: -1
+bong1
+  rotate: false
+  xy: 696, 188
+  size: 26, 26
+  orig: 27, 27
+  offset: 1, 0
+  index: -1
+ca1
+  rotate: true
+  xy: 620, 409
+  size: 52, 56
+  orig: 56, 56
+  offset: 4, 0
+  index: -1
+fxs
+  rotate: true
+  xy: 235, 427
+  size: 59, 46
+  orig: 62, 49
+  offset: 1, 1
+  index: -1
+m1
+  rotate: false
+  xy: 1, 475
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+m2
+  rotate: false
+  xy: 283, 441
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+mu11
+  rotate: true
+  xy: 235, 323
+  size: 102, 48
+  orig: 102, 48
+  offset: 0, 0
+  index: -1
+myca
+  rotate: false
+  xy: 663, 188
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+sung1
+  rotate: false
+  xy: 1, 323
+  size: 232, 150
+  orig: 232, 150
+  offset: 0, 0
+  index: -1
+tay11
+  rotate: false
+  xy: 557, 462
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+tay22
+  rotate: false
+  xy: 557, 409
+  size: 61, 51
+  orig: 61, 51
+  offset: 0, 0
+  index: -1
+thanca
+  rotate: false
+  xy: 1, 1
+  size: 289, 320
+  orig: 289, 320
+  offset: 0, 0
+  index: -1
+vay1
+  rotate: false
+  xy: 678, 409
+  size: 12, 17
+  orig: 14, 18
+  offset: 0, 1
+  index: -1
+vay2
+  rotate: true
+  xy: 283, 427
+  size: 12, 7
+  orig: 18, 10
+  offset: 5, 0
+  index: -1

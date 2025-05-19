@@ -1,0 +1,55 @@
+
+caothap.png
+size: 512,512
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+BG_caothap
+  rotate: false
+  xy: 2, 241
+  size: 218, 204
+  orig: 218, 204
+  offset: 0, 0
+  index: -1
+arrow_down
+  rotate: false
+  xy: 130, 133
+  size: 90, 106
+  orig: 90, 106
+  offset: 0, 0
+  index: -1
+arrow_up
+  rotate: false
+  xy: 2, 2
+  size: 84, 113
+  orig: 84, 113
+  offset: 0, 0
+  index: -1
+cao
+  rotate: false
+  xy: 350, 395
+  size: 80, 50
+  orig: 80, 50
+  offset: 0, 0
+  index: -1
+ct_chip1
+  rotate: false
+  xy: 2, 117
+  size: 126, 122
+  orig: 126, 122
+  offset: 0, 0
+  index: -1
+ct_chip2
+  rotate: false
+  xy: 222, 330
+  size: 126, 115
+  orig: 126, 115
+  offset: 0, 0
+  index: -1
+thap
+  rotate: false
+  xy: 222, 270
+  size: 96, 58
+  orig: 96, 58
+  offset: 0, 0
+  index: -1

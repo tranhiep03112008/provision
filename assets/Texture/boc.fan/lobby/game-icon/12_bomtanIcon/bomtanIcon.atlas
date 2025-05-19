@@ -1,0 +1,104 @@
+
+bomtanIcon.png
+size: 285,488
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: true
+  xy: 198, 325
+  size: 36, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+b
+  rotate: false
+  xy: 199, 363
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+dau
+  rotate: true
+  xy: 151, 182
+  size: 141, 133
+  orig: 143, 135
+  offset: 1, 1
+  index: -1
+m
+  rotate: false
+  xy: 155, 370
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+mat1
+  rotate: false
+  xy: 230, 438
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+mat2
+  rotate: false
+  xy: 192, 402
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+n
+  rotate: false
+  xy: 239, 325
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+o
+  rotate: false
+  xy: 235, 363
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 1, 182
+  size: 148, 153
+  orig: 148, 155
+  offset: 0, 0
+  index: -1
+sao1
+  rotate: false
+  xy: 155, 401
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+sao2
+  rotate: true
+  xy: 155, 325
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+t
+  rotate: true
+  xy: 230, 402
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+t1
+  rotate: true
+  xy: 1, 337
+  size: 150, 152
+  orig: 150, 152
+  offset: 0, 0
+  index: -1
+t2
+  rotate: false
+  xy: 1, 1
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1

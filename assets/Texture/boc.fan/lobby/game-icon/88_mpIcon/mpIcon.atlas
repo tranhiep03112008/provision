@@ -1,0 +1,146 @@
+
+mpIcon.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 16
+  rotate: false
+  xy: 343, 116
+  size: 135, 115
+  orig: 135, 115
+  offset: 0, 0
+  index: -1
+Layer 636 copy
+  rotate: false
+  xy: 968, 194
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+Layer 637 copy
+  rotate: false
+  xy: 227, 52
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+Layer 637 copy 2
+  rotate: false
+  xy: 420, 80
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+Layer 641
+  rotate: false
+  xy: 191, 44
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+Layer 643
+  rotate: false
+  xy: 480, 132
+  size: 134, 99
+  orig: 134, 99
+  offset: 0, 0
+  index: -1
+Layer 644
+  rotate: false
+  xy: 2, 44
+  size: 187, 187
+  orig: 187, 187
+  offset: 0, 0
+  index: -1
+Rounded Rectangle 8
+  rotate: false
+  xy: 191, 79
+  size: 150, 152
+  orig: 150, 152
+  offset: 0, 0
+  index: -1
+e
+  rotate: false
+  xy: 176, 8
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+flare7
+  rotate: false
+  xy: 2, 2
+  size: 172, 40
+  orig: 172, 40
+  offset: 0, 0
+  index: -1
+i
+  rotate: true
+  xy: 752, 181
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+i2
+  rotate: true
+  xy: 820, 181
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+k
+  rotate: false
+  xy: 930, 187
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+light1
+  rotate: false
+  xy: 343, 77
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 651, 139
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+m
+  rotate: false
+  xy: 616, 165
+  size: 70, 66
+  orig: 70, 66
+  offset: 0, 0
+  index: -1
+n
+  rotate: false
+  xy: 688, 173
+  size: 62, 58
+  orig: 62, 58
+  offset: 0, 0
+  index: -1
+o
+  rotate: false
+  xy: 382, 80
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+p
+  rotate: false
+  xy: 888, 187
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+r
+  rotate: true
+  xy: 616, 132
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+xocdia.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: true
+  xy: 555, 108
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+bat
+  rotate: false
+  xy: 629, 146
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+bg1
+  rotate: false
+  xy: 359, 103
+  size: 150, 151
+  orig: 150, 151
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: false
+  xy: 2, 76
+  size: 179, 178
+  orig: 179, 178
+  offset: 0, 0
+  index: -1
+c
+  rotate: false
+  xy: 161, 40
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+coden1
+  rotate: false
+  xy: 120, 2
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+coden2
+  rotate: true
+  xy: 150, 2
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+cotrang1
+  rotate: false
+  xy: 852, 221
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+cotrang2
+  rotate: true
+  xy: 739, 146
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+d
+  rotate: false
+  xy: 815, 213
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dia
+  rotate: false
+  xy: 511, 138
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+haoquang
+  rotate: false
+  xy: 183, 76
+  size: 174, 178
+  orig: 174, 178
+  offset: 0, 0
+  index: -1
+i
+  rotate: true
+  xy: 359, 78
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+light1
+  rotate: false
+  xy: 739, 180
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 815, 180
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+o
+  rotate: true
+  xy: 511, 106
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+suongdo
+  rotate: false
+  xy: 2, 23
+  size: 116, 51
+  orig: 116, 51
+  offset: 0, 0
+  index: -1
+x
+  rotate: false
+  xy: 120, 33
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1

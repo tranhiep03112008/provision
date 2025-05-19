@@ -1,0 +1,62 @@
+
+icon_3cay.png
+size: 188,788
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: false
+  xy: 147, 29
+  size: 38, 40
+  orig: 39, 42
+  offset: 1, 1
+  index: -1
+bg
+  rotate: false
+  xy: 2, 234
+  size: 176, 171
+  orig: 176, 172
+  offset: 0, 1
+  index: -1
+card
+  rotate: false
+  xy: 2, 407
+  size: 167, 194
+  orig: 177, 212
+  offset: 9, 0
+  index: -1
+cay
+  rotate: false
+  xy: 2, 21
+  size: 96, 48
+  orig: 98, 50
+  offset: 1, 1
+  index: -1
+coin1
+  rotate: true
+  xy: 100, 34
+  size: 35, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+coin2
+  rotate: true
+  xy: 100, 2
+  size: 30, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+khung
+  rotate: false
+  xy: 2, 603
+  size: 184, 180
+  orig: 186, 182
+  offset: 1, 1
+  index: -1
+khung-light
+  rotate: false
+  xy: 2, 71
+  size: 174, 161
+  orig: 176, 172
+  offset: 1, 10
+  index: -1

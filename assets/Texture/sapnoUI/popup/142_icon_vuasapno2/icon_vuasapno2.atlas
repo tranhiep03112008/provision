@@ -1,0 +1,69 @@
+
+icon_vuasapno2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 373, 2
+  size: 245, 98
+  orig: 245, 98
+  offset: 0, 0
+  index: -1
+nho2
+  rotate: false
+  xy: 730, 92
+  size: 110, 112
+  orig: 110, 112
+  offset: 0, 0
+  index: -1
+nho_coin
+  rotate: true
+  xy: 984, 465
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+nho_oto2
+  rotate: true
+  xy: 763, 223
+  size: 281, 139
+  orig: 281, 139
+  offset: 0, 0
+  index: -1
+nho_rank
+  rotate: true
+  xy: 904, 211
+  size: 293, 78
+  orig: 293, 78
+  offset: 0, 0
+  index: -1
+nho_ribon2
+  rotate: false
+  xy: 2, 33
+  size: 369, 75
+  orig: 369, 75
+  offset: 0, 0
+  index: -1
+nho_sangtron
+  rotate: false
+  xy: 2, 110
+  size: 395, 394
+  orig: 395, 394
+  offset: 0, 0
+  index: -1
+nho_sangxoay
+  rotate: false
+  xy: 399, 206
+  size: 362, 298
+  orig: 362, 298
+  offset: 0, 0
+  index: -1
+nhosieunoV
+  rotate: false
+  xy: 399, 102
+  size: 329, 102
+  orig: 329, 102
+  offset: 0, 0
+  index: -1

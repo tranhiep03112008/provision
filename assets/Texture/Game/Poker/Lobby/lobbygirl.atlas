@@ -1,0 +1,132 @@
+
+lobbygirl.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Back Hair
+  rotate: true
+  xy: 869, 294
+  size: 66, 109
+  orig: 66, 109
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 19
+  size: 312, 488
+  orig: 312, 488
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 899, 362
+  size: 114, 145
+  orig: 114, 145
+  offset: 0, 0
+  index: -1
+LArm
+  rotate: true
+  xy: 705, 406
+  size: 101, 192
+  orig: 101, 192
+  offset: 0, 0
+  index: -1
+LEyeball
+  rotate: false
+  xy: 980, 339
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+LHand
+  rotate: true
+  xy: 410, 114
+  size: 225, 80
+  orig: 225, 80
+  offset: 0, 0
+  index: -1
+LIris
+  rotate: false
+  xy: 869, 389
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+LMedium Hair
+  rotate: true
+  xy: 526, 365
+  size: 142, 177
+  orig: 142, 177
+  offset: 0, 0
+  index: -1
+Medium Hair
+  rotate: true
+  xy: 705, 280
+  size: 124, 162
+  orig: 124, 162
+  offset: 0, 0
+  index: -1
+Necklace
+  rotate: true
+  xy: 419, 20
+  size: 92, 72
+  orig: 92, 72
+  offset: 0, 0
+  index: -1
+REyeball
+  rotate: false
+  xy: 316, 19
+  size: 101, 88
+  orig: 101, 88
+  offset: 0, 0
+  index: -1
+RFingers
+  rotate: true
+  xy: 492, 261
+  size: 78, 60
+  orig: 78, 60
+  offset: 0, 0
+  index: -1
+RHand
+  rotate: false
+  xy: 316, 109
+  size: 92, 230
+  orig: 92, 230
+  offset: 0, 0
+  index: -1
+RIris
+  rotate: false
+  xy: 2, 2
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+Small Hair
+  rotate: true
+  xy: 492, 126
+  size: 54, 77
+  orig: 54, 77
+  offset: 0, 0
+  index: -1
+Top Hair
+  rotate: false
+  xy: 316, 341
+  size: 208, 166
+  orig: 208, 166
+  offset: 0, 0
+  index: -1
+glow_ball3_green
+  rotate: false
+  xy: 493, 60
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+laser_impulse_light_muzzle_flare_001
+  rotate: false
+  xy: 492, 182
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1

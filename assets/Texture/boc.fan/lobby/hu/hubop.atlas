@@ -1,0 +1,56 @@
+
+hubop.png
+size: 663,107
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 7
+  rotate: false
+  xy: 198, 14
+  size: 4, 4
+  orig: 6, 6
+  offset: 1, 1
+  index: -1
+Layer 99 copy
+  rotate: false
+  xy: 602, 10
+  size: 4, 3
+  orig: 6, 5
+  offset: 1, 1
+  index: -1
+bghbb
+  rotate: false
+  xy: 198, 20
+  size: 211, 85
+  orig: 213, 87
+  offset: 1, 1
+  index: -1
+fx
+  rotate: false
+  xy: 602, 15
+  size: 31, 31
+  orig: 34, 34
+  offset: 1, 2
+  index: -1
+hubop1
+  rotate: false
+  xy: 2, 2
+  size: 194, 103
+  orig: 197, 106
+  offset: 1, 1
+  index: -1
+hubop2
+  rotate: false
+  xy: 411, 2
+  size: 189, 103
+  orig: 197, 106
+  offset: 1, 1
+  index: -1
+iconclub
+  rotate: false
+  xy: 602, 48
+  size: 59, 57
+  orig: 60, 59
+  offset: 0, 1
+  index: -1
+

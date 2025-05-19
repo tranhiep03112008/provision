@@ -1,0 +1,1438 @@
+{
+  "ID": "2b00955c-c830-4574-843e-d8d634294465",
+  "Version": "3.10.0.0",
+  "Name": "TxEventNode",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 1196,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "TxImgEvent/balls-bg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0,
+              "Y": 0
+            },
+            "Scale": {
+              "ScaleX": 1,
+              "ScaleY": 1
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0,
+              "Y": 0
+            },
+            "PreSize": {
+              "X": 0,
+              "Y": 0
+            },
+            "LeftMargin": -347,
+            "RightMargin": -347,
+            "TopMargin": -34.5,
+            "BottomMargin": -34.5,
+            "Tag": 1234,
+            "ActionTag": 867979962,
+            "Size": {
+              "X": 694,
+              "Y": 69
+            },
+            "Name": "Sprite_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "TxImgEvent/daythang-btn.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 166,
+            "Scale9Height": 61,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2,
+            "ShadowOffsetY": -2,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 253.4194,
+              "Y": 0
+            },
+            "Scale": {
+              "ScaleX": 1,
+              "ScaleY": 1
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0,
+              "Y": 0
+            },
+            "PreSize": {
+              "X": 0,
+              "Y": 0
+            },
+            "LeftMargin": 170.4194,
+            "RightMargin": -336.4194,
+            "TopMargin": -30.5,
+            "BottomMargin": -30.5,
+            "Tag": 1235,
+            "ActionTag": -2076445500,
+            "Size": {
+              "X": 166,
+              "Y": 61
+            },
+            "Name": "btnDayThang",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "TxImgEvent/daythua-btn.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 166,
+            "Scale9Height": 61,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2,
+            "ShadowOffsetY": -2,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -255.4209,
+              "Y": 0
+            },
+            "Scale": {
+              "ScaleX": 1,
+              "ScaleY": 1
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0,
+              "Y": 0
+            },
+            "PreSize": {
+              "X": 0,
+              "Y": 0
+            },
+            "LeftMargin": -338.4209,
+            "RightMargin": 172.4209,
+            "TopMargin": -30.5,
+            "BottomMargin": -30.5,
+            "Tag": 1236,
+            "ActionTag": 1278628171,
+            "Size": {
+              "X": 166,
+              "Y": 61
+            },
+            "Name": "btnDayThua",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleX": 1,
+              "ScaleY": 0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0,
+              "Y": 0
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0,
+              "Y": 0
+            },
+            "PreSize": {
+              "X": 0,
+              "Y": 0
+            },
+            "LeftMargin": -225,
+            "RightMargin": -225,
+            "TopMargin": -40,
+            "BottomMargin": -40,
+            "Tag": 1237,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "TxImgEvent/ball-1.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 64,
+                "Scale9Height": 64,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2,
+                "ShadowOffsetY": -2,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 31.5002,
+                  "Y": 40
+                },
+                "Scale": {
+                  "ScaleX": 1,
+                  "ScaleY": 1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.07,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1422,
+                  "Y": 0.8
+                },
+                "LeftMargin": -0.4998,
+                "RightMargin": 386.4998,
+                "TopMargin": 8,
+                "BottomMargin": 8,
+                "Tag": 1289,
+                "ActionTag": 574094534,
+                "Size": {
+                  "X": 64,
+                  "Y": 64
+                },
+                "Name": "btnBallYellow_1",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "TxImgEvent/ball-2.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 64,
+                "Scale9Height": 64,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2,
+                "ShadowOffsetY": -2,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 96.0002,
+                  "Y": 40
+                },
+                "Scale": {
+                  "ScaleX": 1,
+                  "ScaleY": 1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2133,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1422,
+                  "Y": 0.8
+                },
+                "LeftMargin": 64.0002,
+                "RightMargin": 321.9998,
+                "TopMargin": 8,
+                "BottomMargin": 8,
+                "Tag": 1290,
+                "ActionTag": 766023021,
+                "Size": {
+                  "X": 64,
+                  "Y": 64
+                },
+                "Name": "btnBallYellow_2",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "TxImgEvent/ball-3.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 64,
+                "Scale9Height": 64,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2,
+                "ShadowOffsetY": -2,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 160.5002,
+                  "Y": 40
+                },
+                "Scale": {
+                  "ScaleX": 1,
+                  "ScaleY": 1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3567,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1422,
+                  "Y": 0.8
+                },
+                "LeftMargin": 128.5002,
+                "RightMargin": 257.4998,
+                "TopMargin": 8,
+                "BottomMargin": 8,
+                "Tag": 1291,
+                "ActionTag": -166183141,
+                "Size": {
+                  "X": 64,
+                  "Y": 64
+                },
+                "Name": "btnBallYellow_3",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "TxImgEvent/ball-4.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 64,
+                "Scale9Height": 64,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2,
+                "ShadowOffsetY": -2,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 225.0002,
+                  "Y": 40
+                },
+                "Scale": {
+                  "ScaleX": 1,
+                  "ScaleY": 1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1422,
+                  "Y": 0.8
+                },
+                "LeftMargin": 193.0002,
+                "RightMargin": 192.9998,
+                "TopMargin": 8,
+                "BottomMargin": 8,
+                "Tag": 1292,
+                "ActionTag": 1395871170,
+                "Size": {
+                  "X": 64,
+                  "Y": 64
+                },
+                "Name": "btnBallYellow_4",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "TxImgEvent/ball-5.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 64,
+                "Scale9Height": 64,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2,
+                "ShadowOffsetY": -2,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 289.5002,
+                  "Y": 40
+                },
+                "Scale": {
+                  "ScaleX": 1,
+                  "ScaleY": 1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6433,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1422,
+                  "Y": 0.8
+                },
+                "LeftMargin": 257.5002,
+                "RightMargin": 128.4998,
+                "TopMargin": 8,
+                "BottomMargin": 8,
+                "Tag": 1293,
+                "ActionTag": 880869568,
+                "Size": {
+                  "X": 64,
+                  "Y": 64
+                },
+                "Name": "btnBallYellow_5",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "TxImgEvent/ball-6.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 64,
+                "Scale9Height": 64,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2,
+                "ShadowOffsetY": -2,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 354.0002,
+                  "Y": 40
+                },
+                "Scale": {
+                  "ScaleX": 1,
+                  "ScaleY": 1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7867,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1422,
+                  "Y": 0.8
+                },
+                "LeftMargin": 322.0002,
+                "RightMargin": 63.9998,
+                "TopMargin": 8,
+                "BottomMargin": 8,
+                "Tag": 1294,
+                "ActionTag": 773309425,
+                "Size": {
+                  "X": 64,
+                  "Y": 64
+                },
+                "Name": "btnBallYellow_6",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "TxImgEvent/ball-7.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 65,
+                "Scale9Height": 64,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2,
+                "ShadowOffsetY": -2,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 418.5002,
+                  "Y": 40
+                },
+                "Scale": {
+                  "ScaleX": 1,
+                  "ScaleY": 1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.93,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1444,
+                  "Y": 0.8
+                },
+                "LeftMargin": 386.0002,
+                "RightMargin": -1.0002,
+                "TopMargin": 8,
+                "BottomMargin": 8,
+                "Tag": 1295,
+                "ActionTag": 1024335021,
+                "Size": {
+                  "X": 65,
+                  "Y": 64
+                },
+                "Name": "btnBallYellow_7",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 1905973609,
+            "Size": {
+              "X": 450,
+              "Y": 80
+            },
+            "Name": "pnlDayThang",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleX": 1,
+              "ScaleY": 0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0,
+              "Y": 0
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0,
+              "Y": 0
+            },
+            "PreSize": {
+              "X": 0,
+              "Y": 0
+            },
+            "LeftMargin": -225,
+            "RightMargin": -225,
+            "TopMargin": -40,
+            "BottomMargin": -40,
+            "Tag": 1261,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "TxImgEvent/ball-1-red.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 64,
+                "Scale9Height": 64,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2,
+                "ShadowOffsetY": -2,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 31.5002,
+                  "Y": 40
+                },
+                "Scale": {
+                  "ScaleX": 1,
+                  "ScaleY": 1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.07,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1422,
+                  "Y": 0.8
+                },
+                "LeftMargin": -0.4998,
+                "RightMargin": 386.4998,
+                "TopMargin": 8,
+                "BottomMargin": 8,
+                "Tag": 1271,
+                "ActionTag": -895783953,
+                "Size": {
+                  "X": 64,
+                  "Y": 64
+                },
+                "Name": "btnBallRed_1",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "TxImgEvent/ball-2-red.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 64,
+                "Scale9Height": 64,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2,
+                "ShadowOffsetY": -2,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 96.0002,
+                  "Y": 40
+                },
+                "Scale": {
+                  "ScaleX": 1,
+                  "ScaleY": 1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2133,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1422,
+                  "Y": 0.8
+                },
+                "LeftMargin": 64.0002,
+                "RightMargin": 321.9998,
+                "TopMargin": 8,
+                "BottomMargin": 8,
+                "Tag": 1272,
+                "ActionTag": -547424183,
+                "Size": {
+                  "X": 64,
+                  "Y": 64
+                },
+                "Name": "btnBallRed_2",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "TxImgEvent/ball-3-red.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 64,
+                "Scale9Height": 64,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2,
+                "ShadowOffsetY": -2,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 160.5002,
+                  "Y": 40
+                },
+                "Scale": {
+                  "ScaleX": 1,
+                  "ScaleY": 1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3567,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1422,
+                  "Y": 0.8
+                },
+                "LeftMargin": 128.5002,
+                "RightMargin": 257.4998,
+                "TopMargin": 8,
+                "BottomMargin": 8,
+                "Tag": 1273,
+                "ActionTag": 1630509747,
+                "Size": {
+                  "X": 64,
+                  "Y": 64
+                },
+                "Name": "btnBallRed_3",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "TxImgEvent/ball-4-red.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 64,
+                "Scale9Height": 64,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2,
+                "ShadowOffsetY": -2,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 225.0001,
+                  "Y": 40
+                },
+                "Scale": {
+                  "ScaleX": 1,
+                  "ScaleY": 1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1422,
+                  "Y": 0.8
+                },
+                "LeftMargin": 193.0001,
+                "RightMargin": 192.9999,
+                "TopMargin": 8,
+                "BottomMargin": 8,
+                "Tag": 1274,
+                "ActionTag": 1328176337,
+                "Size": {
+                  "X": 64,
+                  "Y": 64
+                },
+                "Name": "btnBallRed_4",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "TxImgEvent/ball-5-red.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 64,
+                "Scale9Height": 64,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2,
+                "ShadowOffsetY": -2,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 289.5001,
+                  "Y": 40
+                },
+                "Scale": {
+                  "ScaleX": 1,
+                  "ScaleY": 1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6433,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1422,
+                  "Y": 0.8
+                },
+                "LeftMargin": 257.5001,
+                "RightMargin": 128.4999,
+                "TopMargin": 8,
+                "BottomMargin": 8,
+                "Tag": 1275,
+                "ActionTag": 1203825763,
+                "Size": {
+                  "X": 64,
+                  "Y": 64
+                },
+                "Name": "btnBallRed_5",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "TxImgEvent/ball-6-red.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 64,
+                "Scale9Height": 64,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2,
+                "ShadowOffsetY": -2,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 354.0001,
+                  "Y": 40
+                },
+                "Scale": {
+                  "ScaleX": 1,
+                  "ScaleY": 1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7867,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1422,
+                  "Y": 0.8
+                },
+                "LeftMargin": 322.0001,
+                "RightMargin": 63.9999,
+                "TopMargin": 8,
+                "BottomMargin": 8,
+                "Tag": 1276,
+                "ActionTag": -1324668437,
+                "Size": {
+                  "X": 64,
+                  "Y": 64
+                },
+                "Name": "btnBallRed_6",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "TxImgEvent/ball-7-red.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 65,
+                "Scale9Height": 64,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2,
+                "ShadowOffsetY": -2,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 418.5001,
+                  "Y": 40
+                },
+                "Scale": {
+                  "ScaleX": 1,
+                  "ScaleY": 1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.93,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1444,
+                  "Y": 0.8
+                },
+                "LeftMargin": 386.0001,
+                "RightMargin": -1.0001,
+                "TopMargin": 8,
+                "BottomMargin": 8,
+                "Tag": 1277,
+                "ActionTag": -1351544046,
+                "Size": {
+                  "X": 65,
+                  "Y": 64
+                },
+                "Name": "btnBallRed_7",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 1772191837,
+            "Size": {
+              "X": 450,
+              "Y": 80
+            },
+            "Name": "pnlDayThua",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleX": 1,
+              "ScaleY": 0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0,
+              "Y": 0
+            },
+            "Scale": {
+              "ScaleX": 1,
+              "ScaleY": 1
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0,
+              "Y": 0
+            },
+            "PreSize": {
+              "X": 0,
+              "Y": 0
+            },
+            "LeftMargin": -325,
+            "RightMargin": -325,
+            "TopMargin": -34,
+            "BottomMargin": -34,
+            "Tag": 1305,
+            "ActionTag": 233555770,
+            "Size": {
+              "X": 650,
+              "Y": 68
+            },
+            "Name": "pnlTouch",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "5",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "TxFonts/UTM AvoBold.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2,
+            "ShadowOffsetY": -2,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -200,
+              "Y": 3.0047
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 1
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0,
+              "Y": 0
+            },
+            "PreSize": {
+              "X": 0,
+              "Y": 0
+            },
+            "LeftMargin": -207.5,
+            "RightMargin": 192.5,
+            "TopMargin": -17.5047,
+            "BottomMargin": -11.4953,
+            "Tag": 2179,
+            "ActionTag": -1747112171,
+            "Size": {
+              "X": 15,
+              "Y": 29
+            },
+            "Name": "txtBestThua",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "5",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "TxFonts/UTM AvoBold.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2,
+            "ShadowOffsetY": -2,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 310,
+              "Y": 3.0047
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 1
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0,
+              "Y": 0
+            },
+            "PreSize": {
+              "X": 0,
+              "Y": 0
+            },
+            "LeftMargin": 302.5,
+            "RightMargin": -317.5,
+            "TopMargin": -17.5047,
+            "BottomMargin": -11.4953,
+            "Tag": 2180,
+            "ActionTag": 897064884,
+            "Size": {
+              "X": 15,
+              "Y": 29
+            },
+            "Name": "txtBestThang",
+            "ctype": "TextObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleX": 1,
+              "ScaleY": 0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -80.0933,
+              "Y": 449.82
+            },
+            "Scale": {
+              "ScaleX": 1,
+              "ScaleY": 1
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0,
+              "Y": 0
+            },
+            "PreSize": {
+              "X": 0,
+              "Y": 0
+            },
+            "LeftMargin": -380.0933,
+            "RightMargin": -219.9067,
+            "TopMargin": -499.82,
+            "BottomMargin": 399.82,
+            "Tag": 293,
+            "ActionTag": -340907832,
+            "Size": {
+              "X": 600,
+              "Y": 100
+            },
+            "Name": "pnlTouch_0",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0,
+          "Y": 0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "TxFonts/UTM AvoBold.ttf",
+        "TxImgEvent/ball-1.png",
+        "TxImgEvent/ball-1-red.png",
+        "TxImgEvent/ball-2.png",
+        "TxImgEvent/ball-2-red.png",
+        "TxImgEvent/ball-3.png",
+        "TxImgEvent/ball-3-red.png",
+        "TxImgEvent/ball-4.png",
+        "TxImgEvent/ball-4-red.png",
+        "TxImgEvent/ball-5.png",
+        "TxImgEvent/ball-5-red.png",
+        "TxImgEvent/ball-6.png",
+        "TxImgEvent/ball-6-red.png",
+        "TxImgEvent/ball-7.png",
+        "TxImgEvent/ball-7-red.png",
+        "TxImgEvent/balls-bg.png",
+        "TxImgEvent/daythang-btn.png",
+        "TxImgEvent/daythua-btn.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

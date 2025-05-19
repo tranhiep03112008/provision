@@ -1,0 +1,153 @@
+
+momotag.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+15
+  rotate: false
+  xy: 1208, 752
+  size: 84, 45
+  orig: 84, 45
+  offset: 0, 0
+  index: -1
+Comp 1_00000
+  rotate: false
+  xy: 2, 1610
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Comp 1_00001
+  rotate: false
+  xy: 2, 1208
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Comp 1_00002
+  rotate: false
+  xy: 404, 1610
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Comp 1_00003
+  rotate: false
+  xy: 2, 806
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Comp 1_00004
+  rotate: false
+  xy: 404, 1208
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Comp 1_00005
+  rotate: false
+  xy: 806, 1610
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Comp 1_00006
+  rotate: false
+  xy: 2, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Comp 1_00007
+  rotate: false
+  xy: 404, 806
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Comp 1_00008
+  rotate: false
+  xy: 806, 1208
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Comp 1_00009
+  rotate: false
+  xy: 1208, 1610
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Comp 1_00010
+  rotate: false
+  xy: 2, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Comp 1_00011
+  rotate: false
+  xy: 404, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Comp 1_00012
+  rotate: false
+  xy: 806, 806
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Comp 1_00013
+  rotate: false
+  xy: 1208, 1208
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Comp 1_00014
+  rotate: false
+  xy: 1610, 1610
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Comp 1_00015
+  rotate: false
+  xy: 404, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Comp 1_00016
+  rotate: false
+  xy: 806, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Comp 1_00017
+  rotate: false
+  xy: 1208, 806
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Comp 1_00018
+  rotate: false
+  xy: 1610, 1208
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Comp 1_00019
+  rotate: false
+  xy: 806, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1

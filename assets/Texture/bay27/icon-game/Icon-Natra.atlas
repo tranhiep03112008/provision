@@ -1,0 +1,118 @@
+
+Icon-Natra.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 635
+  size: 238, 386
+  orig: 238, 386
+  offset: 0, 0
+  index: -1
+Bar
+  rotate: false
+  xy: 236, 541
+  size: 189, 41
+  orig: 189, 41
+  offset: 0, 0
+  index: -1
+Black Glossy
+  rotate: true
+  xy: 2, 21
+  size: 233, 180
+  orig: 233, 180
+  offset: 0, 0
+  index: -1
+Coming Soon
+  rotate: false
+  xy: 557, 663
+  size: 173, 100
+  orig: 173, 100
+  offset: 0, 0
+  index: -1
+Glossy
+  rotate: false
+  xy: 758, 954
+  size: 234, 67
+  orig: 234, 67
+  offset: 0, 0
+  index: -1
+Glow
+  rotate: false
+  xy: 242, 765
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 922, 902
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+Mark
+  rotate: false
+  xy: 2, 2
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+Nezha Base Body
+  rotate: false
+  xy: 2, 256
+  size: 232, 377
+  orig: 232, 377
+  offset: 0, 0
+  index: -1
+Nezha Text
+  rotate: false
+  xy: 758, 854
+  size: 162, 98
+  orig: 162, 98
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: true
+  xy: 242, 584
+  size: 179, 313
+  orig: 179, 313
+  offset: 0, 0
+  index: -1
+Red Ribbon
+  rotate: true
+  xy: 994, 954
+  size: 67, 20
+  orig: 67, 20
+  offset: 0, 0
+  index: -1
+Red Ribbon 2
+  rotate: true
+  xy: 557, 591
+  size: 70, 95
+  orig: 70, 95
+  offset: 0, 0
+  index: -1
+Red Ribbon 3
+  rotate: false
+  xy: 184, 60
+  size: 53, 194
+  orig: 53, 194
+  offset: 0, 0
+  index: -1
+Red Ribbon 4
+  rotate: false
+  xy: 758, 786
+  size: 71, 66
+  orig: 71, 66
+  offset: 0, 0
+  index: -1
+lightning01_04
+  rotate: false
+  xy: 500, 765
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

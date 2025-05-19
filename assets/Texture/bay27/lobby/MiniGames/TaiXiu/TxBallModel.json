@@ -1,0 +1,127 @@
+{
+  "ID": "d04b3d64-5965-4ed4-8ea7-ed77833e84b4",
+  "Version": "3.10.0.0",
+  "Name": "TxBallModel",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 841,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "TxResCode/dotXiu.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0,
+              "Y": 0
+            },
+            "Scale": {
+              "ScaleX": 1,
+              "ScaleY": 1
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0,
+              "Y": 0
+            },
+            "PreSize": {
+              "X": 0,
+              "Y": 0
+            },
+            "LeftMargin": -16.5,
+            "RightMargin": -16.5,
+            "TopMargin": -16.5,
+            "BottomMargin": -16.5,
+            "Tag": 842,
+            "ActionTag": 672478428,
+            "Size": {
+              "X": 33,
+              "Y": 33
+            },
+            "Name": "ball",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "Text Label 3ttrtertehdh",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2,
+            "ShadowOffsetY": -2,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0,
+              "Y": 0
+            },
+            "Scale": {
+              "ScaleX": 1,
+              "ScaleY": 1
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0,
+              "Y": 0
+            },
+            "PreSize": {
+              "X": 0,
+              "Y": 0
+            },
+            "LeftMargin": -100,
+            "RightMargin": -100,
+            "TopMargin": -11.5,
+            "BottomMargin": -11.5,
+            "Tag": 843,
+            "ActionTag": -94376722,
+            "Size": {
+              "X": 200,
+              "Y": 23
+            },
+            "Name": "totalScore",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0,
+          "Y": 0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "TxResCode/dotXiu.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

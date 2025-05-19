@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "f7fd265d-b132-44bb-8b53-f1638e76ef2c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 524,
+  "height": 74,
+  "platformSettings": {},
+  "subMetas": {
+    "sodu-portal-bg": {
+      "ver": "1.0.4",
+      "uuid": "6a67fd2e-c4e2-4e83-a420-5507294f0851",
+      "rawTextureUuid": "f7fd265d-b132-44bb-8b53-f1638e76ef2c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 524,
+      "height": 74,
+      "rawWidth": 524,
+      "rawHeight": 74,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

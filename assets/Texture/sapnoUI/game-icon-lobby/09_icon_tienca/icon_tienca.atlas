@@ -1,0 +1,83 @@
+
+icon_tienca.png
+size: 620,1028
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 57
+  size: 332, 673
+  orig: 332, 673
+  offset: 0, 0
+  index: -1
+bongbong
+  rotate: false
+  xy: 587, 819
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+ca
+  rotate: true
+  xy: 336, 663
+  size: 67, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+line boder
+  rotate: false
+  xy: 401, 477
+  size: 184, 368
+  orig: 184, 368
+  offset: 0, 0
+  index: -1
+lua
+  rotate: false
+  xy: 336, 197
+  size: 282, 278
+  orig: 282, 278
+  offset: 0, 0
+  index: -1
+opacity
+  rotate: true
+  xy: 401, 847
+  size: 179, 208
+  orig: 179, 209
+  offset: 0, 0
+  index: -1
+qua
+  rotate: true
+  xy: 450, 101
+  size: 94, 105
+  orig: 94, 105
+  offset: 0, 0
+  index: -1
+tien
+  rotate: true
+  xy: 450, 2
+  size: 97, 76
+  orig: 97, 76
+  offset: 0, 0
+  index: -1
+toc1
+  rotate: false
+  xy: 336, 53
+  size: 112, 142
+  orig: 112, 142
+  offset: 0, 0
+  index: -1
+toc2
+  rotate: false
+  xy: 587, 759
+  size: 25, 58
+  orig: 25, 58
+  offset: 0, 0
+  index: -1
+tuong
+  rotate: true
+  xy: 2, 732
+  size: 294, 397
+  orig: 294, 397
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+chuadaoicon.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 686
+  rotate: true
+  xy: 2, 75
+  size: 167, 303
+  orig: 167, 303
+  offset: 0, 0
+  index: -1
+chanp
+  rotate: true
+  xy: 443, 198
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+chantr
+  rotate: false
+  xy: 389, 190
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+duitr
+  rotate: false
+  xy: 211, 22
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+mui
+  rotate: true
+  xy: 360, 149
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+rau
+  rotate: true
+  xy: 134, 15
+  size: 58, 75
+  orig: 58, 75
+  offset: 0, 0
+  index: -1
+ruong
+  rotate: false
+  xy: 307, 182
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+tayp
+  rotate: false
+  xy: 2, 2
+  size: 130, 71
+  orig: 130, 71
+  offset: 0, 0
+  index: -1
+taytr
+  rotate: true
+  xy: 307, 99
+  size: 81, 51
+  orig: 81, 51
+  offset: 0, 0
+  index: -1
+vaitr
+  rotate: false
+  xy: 266, 17
+  size: 33, 56
+  orig: 33, 56
+  offset: 0, 0
+  index: -1

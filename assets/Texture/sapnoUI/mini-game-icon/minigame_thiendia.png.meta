@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "e184913f-d3f1-4710-b9bd-846ed0acce2f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 102,
+  "height": 118,
+  "platformSettings": {},
+  "subMetas": {
+    "minigame_thiendia": {
+      "ver": "1.0.4",
+      "uuid": "728d87c3-c1be-42a6-9964-02335a5b620f",
+      "rawTextureUuid": "e184913f-d3f1-4710-b9bd-846ed0acce2f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 102,
+      "height": 118,
+      "rawWidth": 102,
+      "rawHeight": 118,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,55 @@
+
+icon_banca.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg2
+  rotate: true
+  xy: 2, 24
+  size: 184, 368
+  orig: 184, 368
+  offset: 0, 0
+  index: -1
+bongbong
+  rotate: false
+  xy: 2, 2
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+canho2
+  rotate: true
+  xy: 826, 45
+  size: 92, 113
+  orig: 92, 113
+  offset: 0, 0
+  index: -1
+canho3
+  rotate: true
+  xy: 941, 48
+  size: 89, 72
+  orig: 89, 72
+  offset: 0, 0
+  index: -1
+cato2
+  rotate: true
+  xy: 372, 22
+  size: 186, 241
+  orig: 186, 241
+  offset: 0, 0
+  index: -1
+frame_2
+  rotate: true
+  xy: 615, 38
+  size: 170, 209
+  orig: 170, 209
+  offset: 0, 0
+  index: -1
+txt_banca2
+  rotate: false
+  xy: 826, 139
+  size: 167, 69
+  orig: 167, 69
+  offset: 0, 0
+  index: -1

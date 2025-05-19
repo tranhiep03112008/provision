@@ -1,0 +1,607 @@
+{
+  "ID": "f7524878-5395-40ec-951d-0ea44ef328d9",
+  "Version": "3.10.0.0",
+  "Name": "TxEventWinBigNode",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 1972,
+        "Children": [
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": -0.0022,
+              "Y": 61.0035
+            },
+            "Scale": {
+              "ScaleX": 1,
+              "ScaleY": 1
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0,
+              "Y": 0
+            },
+            "PreSize": {
+              "X": 0,
+              "Y": 0
+            },
+            "LeftMargin": -0.0022,
+            "RightMargin": 0.0022,
+            "TopMargin": -61.0035,
+            "BottomMargin": 61.0035,
+            "Tag": 1973,
+            "ActionTag": 984671278,
+            "Size": {
+              "X": 0,
+              "Y": 0
+            },
+            "Name": "nodeSpine",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 40,
+            "LabelText": "Chúc mừng người chơi",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "TxFonts/UTM AvoBold.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2,
+            "ShadowOffsetY": -2,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -0.0022,
+              "Y": -171.8311
+            },
+            "Scale": {
+              "ScaleX": 1,
+              "ScaleY": 1
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0,
+              "Y": 0
+            },
+            "PreSize": {
+              "X": 0,
+              "Y": 0
+            },
+            "LeftMargin": -250.0022,
+            "RightMargin": -249.9978,
+            "TopMargin": 142.3311,
+            "BottomMargin": -201.3311,
+            "Tag": 1974,
+            "ActionTag": 6004988,
+            "Size": {
+              "X": 500,
+              "Y": 59
+            },
+            "Name": "Text_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 50,
+            "LabelText": "Tocotoco",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "TxFonts/UTM AvoBold.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2,
+            "ShadowOffsetY": -2,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -0.0022,
+              "Y": -216.3634
+            },
+            "Scale": {
+              "ScaleX": 1,
+              "ScaleY": 1
+            },
+            "CColor": {
+              "R": 253,
+              "G": 193,
+              "B": 1
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0,
+              "Y": 0
+            },
+            "PreSize": {
+              "X": 0,
+              "Y": 0
+            },
+            "LeftMargin": -250.0022,
+            "RightMargin": -249.9978,
+            "TopMargin": 181.3634,
+            "BottomMargin": -251.3634,
+            "Tag": 1975,
+            "ActionTag": -414714268,
+            "Size": {
+              "X": 500,
+              "Y": 70
+            },
+            "Name": "lblNickname",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "TxImgEvent/money-bg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -0.0024,
+              "Y": -291.2148
+            },
+            "Scale": {
+              "ScaleX": 1,
+              "ScaleY": 1
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0,
+              "Y": 0
+            },
+            "PreSize": {
+              "X": 0,
+              "Y": 0
+            },
+            "LeftMargin": -302.5024,
+            "RightMargin": -302.4976,
+            "TopMargin": 254.7148,
+            "BottomMargin": -327.7148,
+            "Tag": 1976,
+            "ActionTag": 1192544716,
+            "Size": {
+              "X": 605,
+              "Y": 73
+            },
+            "Name": "Sprite_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "LabelText": "0",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "TxFonts/font.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 154.5522,
+              "Y": -312.4358
+            },
+            "Scale": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0,
+              "Y": 0
+            },
+            "PreSize": {
+              "X": 0,
+              "Y": 0
+            },
+            "LeftMargin": 112.0522,
+            "RightMargin": -197.0522,
+            "TopMargin": 220.9358,
+            "BottomMargin": -403.9358,
+            "Tag": 615,
+            "ActionTag": -1507079345,
+            "Size": {
+              "X": 85,
+              "Y": 183
+            },
+            "Name": "lblPrize_0",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "LabelText": "0",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "TxFonts/font.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 109.9228,
+              "Y": -312.4359
+            },
+            "Scale": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0,
+              "Y": 0
+            },
+            "PreSize": {
+              "X": 0,
+              "Y": 0
+            },
+            "LeftMargin": 67.4228,
+            "RightMargin": -152.4228,
+            "TopMargin": 220.9359,
+            "BottomMargin": -403.9359,
+            "Tag": 616,
+            "ActionTag": 858416802,
+            "Size": {
+              "X": 85,
+              "Y": 183
+            },
+            "Name": "lblPrize_1",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "LabelText": "0",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "TxFonts/font.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 65.2932,
+              "Y": -312.4359
+            },
+            "Scale": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0,
+              "Y": 0
+            },
+            "PreSize": {
+              "X": 0,
+              "Y": 0
+            },
+            "LeftMargin": 22.7932,
+            "RightMargin": -107.7932,
+            "TopMargin": 220.9359,
+            "BottomMargin": -403.9359,
+            "Tag": 617,
+            "ActionTag": -779431968,
+            "Size": {
+              "X": 85,
+              "Y": 183
+            },
+            "Name": "lblPrize_2",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "LabelText": ".",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "TxFonts/font.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 32.6638,
+              "Y": -312.4359
+            },
+            "Scale": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0,
+              "Y": 0
+            },
+            "PreSize": {
+              "X": 0,
+              "Y": 0
+            },
+            "LeftMargin": 14.1638,
+            "RightMargin": -51.1638,
+            "TopMargin": 220.9359,
+            "BottomMargin": -403.9359,
+            "Tag": 624,
+            "ActionTag": -494538311,
+            "Size": {
+              "X": 37,
+              "Y": 183
+            },
+            "Name": "lblPrize_1_0",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "LabelText": "0",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "TxFonts/font.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0342,
+              "Y": -312.4359
+            },
+            "Scale": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0,
+              "Y": 0
+            },
+            "PreSize": {
+              "X": 0,
+              "Y": 0
+            },
+            "LeftMargin": -42.4658,
+            "RightMargin": -42.5342,
+            "TopMargin": 220.9359,
+            "BottomMargin": -403.9359,
+            "Tag": 618,
+            "ActionTag": -757497736,
+            "Size": {
+              "X": 85,
+              "Y": 183
+            },
+            "Name": "lblPrize_3",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "LabelText": "0",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "TxFonts/font.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -44.5952,
+              "Y": -312.4359
+            },
+            "Scale": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0,
+              "Y": 0
+            },
+            "PreSize": {
+              "X": 0,
+              "Y": 0
+            },
+            "LeftMargin": -87.0952,
+            "RightMargin": 2.0952,
+            "TopMargin": 220.9359,
+            "BottomMargin": -403.9359,
+            "Tag": 619,
+            "ActionTag": 797187741,
+            "Size": {
+              "X": 85,
+              "Y": 183
+            },
+            "Name": "lblPrize_4",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "LabelText": "0",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "TxFonts/font.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -89.2246,
+              "Y": -312.4359
+            },
+            "Scale": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0,
+              "Y": 0
+            },
+            "PreSize": {
+              "X": 0,
+              "Y": 0
+            },
+            "LeftMargin": -131.7246,
+            "RightMargin": 46.7246,
+            "TopMargin": 220.9359,
+            "BottomMargin": -403.9359,
+            "Tag": 620,
+            "ActionTag": -13577965,
+            "Size": {
+              "X": 85,
+              "Y": 183
+            },
+            "Name": "lblPrize_5",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "LabelText": ".",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "TxFonts/font.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -121.8541,
+              "Y": -312.4359
+            },
+            "Scale": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0,
+              "Y": 0
+            },
+            "PreSize": {
+              "X": 0,
+              "Y": 0
+            },
+            "LeftMargin": -140.3541,
+            "RightMargin": 103.3541,
+            "TopMargin": 220.9359,
+            "BottomMargin": -403.9359,
+            "Tag": 625,
+            "ActionTag": 2108957822,
+            "Size": {
+              "X": 37,
+              "Y": 183
+            },
+            "Name": "lblPrize_1_1",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "LabelText": "0",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "TxFonts/font.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -154.4837,
+              "Y": -312.4359
+            },
+            "Scale": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0,
+              "Y": 0
+            },
+            "PreSize": {
+              "X": 0,
+              "Y": 0
+            },
+            "LeftMargin": -196.9837,
+            "RightMargin": 111.9837,
+            "TopMargin": 220.9359,
+            "BottomMargin": -403.9359,
+            "Tag": 621,
+            "ActionTag": 122171729,
+            "Size": {
+              "X": 85,
+              "Y": 183
+            },
+            "Name": "lblPrize_6",
+            "ctype": "TextBMFontObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0,
+          "Y": 0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "TxFonts/font.fnt",
+        "TxFonts/font.png",
+        "TxFonts/UTM AvoBold.ttf",
+        "TxImgEvent/money-bg.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

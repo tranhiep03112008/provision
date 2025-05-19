@@ -1,0 +1,153 @@
+
+raiderlobbyicon.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10000 Body
+  rotate: false
+  xy: 2, 131
+  size: 183, 123
+  orig: 183, 123
+  offset: 0, 0
+  index: -1
+10000 Feets
+  rotate: true
+  xy: 187, 115
+  size: 139, 144
+  orig: 139, 144
+  offset: 0, 0
+  index: -1
+10000 Head
+  rotate: true
+  xy: 2, 4
+  size: 125, 162
+  orig: 125, 162
+  offset: 0, 0
+  index: -1
+10000 L Hand
+  rotate: false
+  xy: 406, 184
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+10000 Light
+  rotate: true
+  xy: 885, 198
+  size: 56, 58
+  orig: 56, 58
+  offset: 0, 0
+  index: -1
+10000 R Backhand
+  rotate: false
+  xy: 488, 189
+  size: 84, 65
+  orig: 84, 65
+  offset: 0, 0
+  index: -1
+10000 R Palm
+  rotate: true
+  xy: 659, 199
+  size: 55, 89
+  orig: 55, 89
+  offset: 0, 0
+  index: -1
+icon_0001_J
+  rotate: true
+  xy: 574, 190
+  size: 64, 83
+  orig: 64, 83
+  offset: 0, 0
+  index: -1
+icon_0002_A
+  rotate: false
+  xy: 824, 197
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+icon_0003_C
+  rotate: false
+  xy: 333, 116
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+icon_0004_K
+  rotate: false
+  xy: 945, 201
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: -1
+icon_0005_P
+  rotate: false
+  xy: 422, 131
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1
+icon_0006_O
+  rotate: false
+  xy: 503, 138
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+icon_0007_T
+  rotate: false
+  xy: 212, 64
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+icon_0008_R
+  rotate: false
+  xy: 333, 172
+  size: 71, 82
+  orig: 71, 82
+  offset: 0, 0
+  index: -1
+icon_0009_A
+  rotate: true
+  xy: 750, 197
+  size: 57, 72
+  orig: 57, 72
+  offset: 0, 0
+  index: -1
+icon_0010_I
+  rotate: false
+  xy: 383, 115
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+icon_0011_D
+  rotate: false
+  xy: 166, 58
+  size: 44, 55
+  orig: 44, 55
+  offset: 0, 0
+  index: -1
+icon_0012_E
+  rotate: true
+  xy: 262, 71
+  size: 42, 53
+  orig: 42, 53
+  offset: 0, 0
+  index: -1
+icon_0013_R
+  rotate: false
+  xy: 166, 2
+  size: 42, 54
+  orig: 42, 54
+  offset: 0, 0
+  index: -1
+icon_0014_S
+  rotate: false
+  xy: 463, 130
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1

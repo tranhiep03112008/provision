@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "be541a45-3563-4fea-b3d8-c442cd6733dd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 118,
+  "height": 96,
+  "platformSettings": {},
+  "subMetas": {
+    "icon_luotquay": {
+      "ver": "1.0.4",
+      "uuid": "cf8149e3-1f09-4998-bd2c-db58665295f1",
+      "rawTextureUuid": "be541a45-3563-4fea-b3d8-c442cd6733dd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 118,
+      "height": 96,
+      "rawWidth": 118,
+      "rawHeight": 96,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,41 @@
+
+icon_fox.png
+size: 388,424
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7
+  rotate: true
+  xy: 223, 211
+  size: 33, 48
+  orig: 36, 52
+  offset: 2, 2
+  index: -1
+bg
+  rotate: true
+  xy: 188, 8
+  size: 174, 170
+  orig: 176, 172
+  offset: 1, 1
+  index: -1
+khung
+  rotate: false
+  xy: 2, 2
+  size: 184, 180
+  orig: 186, 182
+  offset: 1, 1
+  index: -1
+khung-light
+  rotate: true
+  xy: 223, 246
+  size: 174, 161
+  orig: 176, 172
+  offset: 1, 10
+  index: -1
+quay
+  rotate: true
+  xy: 2, 184
+  size: 236, 219
+  orig: 238, 221
+  offset: 1, 1
+  index: -1

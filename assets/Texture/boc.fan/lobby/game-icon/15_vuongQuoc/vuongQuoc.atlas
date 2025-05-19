@@ -1,0 +1,82 @@
+vuongQuoc.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: true
+  xy: 2, 3
+  size: 225, 370
+  orig: 225, 370
+  offset: 0, 0
+  index: -1
+boc
+  rotate: false
+  xy: 374, 2
+  size: 99, 77
+  orig: 99, 77
+  offset: 0, 0
+  index: -1
+bong
+  rotate: false
+  xy: 475, 52
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+c_0000_Layer-4
+  rotate: false
+  xy: 627, 186
+  size: 81, 42
+  orig: 81, 42
+  offset: 0, 0
+  index: -1
+c_0001_Layer-3
+  rotate: false
+  xy: 710, 187
+  size: 81, 41
+  orig: 81, 41
+  offset: 0, 0
+  index: -1
+c_0002_Layer-2
+  rotate: false
+  xy: 793, 187
+  size: 81, 41
+  orig: 81, 41
+  offset: 0, 0
+  index: -1
+c_0003_Layer-1
+  rotate: false
+  xy: 544, 184
+  size: 81, 44
+  orig: 81, 44
+  offset: 0, 0
+  index: -1
+c_0004_Layer-5
+  rotate: false
+  xy: 510, 95
+  size: 8, 68
+  orig: 8, 68
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 876, 187
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+quoc
+  rotate: false
+  xy: 374, 81
+  size: 134, 82
+  orig: 134, 82
+  offset: 0, 0
+  index: -1
+vuong
+  rotate: false
+  xy: 374, 165
+  size: 168, 63
+  orig: 168, 63
+  offset: 0, 0
+  index: -1

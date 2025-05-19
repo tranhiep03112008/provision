@@ -1,0 +1,83 @@
+
+icon_cowboy.png
+size: 680,980
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+VAMPIRE
+  rotate: true
+  xy: 572, 210
+  size: 175, 72
+  orig: 175, 72
+  offset: 0, 0
+  index: -1
+bg
+  rotate: true
+  xy: 2, 645
+  size: 332, 673
+  orig: 332, 673
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 260
+  size: 197, 320
+  orig: 197, 320
+  offset: 0, 0
+  index: -1
+choang1
+  rotate: true
+  xy: 372, 387
+  size: 256, 282
+  orig: 256, 282
+  offset: 0, 0
+  index: -1
+choang2
+  rotate: true
+  xy: 2, 2
+  size: 256, 231
+  orig: 256, 231
+  offset: 0, 0
+  index: -1
+co
+  rotate: false
+  xy: 324, 397
+  size: 40, 60
+  orig: 42, 62
+  offset: 1, 1
+  index: -1
+dau
+  rotate: true
+  xy: 235, 2
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+line boder
+  rotate: true
+  xy: 2, 459
+  size: 184, 368
+  orig: 184, 368
+  offset: 0, 0
+  index: -1
+mat
+  rotate: true
+  xy: 324, 333
+  size: 62, 29
+  orig: 67, 33
+  offset: 3, 2
+  index: -1
+opacity
+  rotate: true
+  xy: 429, 29
+  size: 179, 208
+  orig: 179, 209
+  offset: 0, 0
+  index: -1
+taytr
+  rotate: true
+  xy: 355, 277
+  size: 108, 215
+  orig: 108, 215
+  offset: 0, 0
+  index: -1

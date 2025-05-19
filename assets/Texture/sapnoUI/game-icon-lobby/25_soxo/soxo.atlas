@@ -1,0 +1,48 @@
+
+soxo.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 2, 2
+  size: 64, 68
+  orig: 66, 70
+  offset: 1, 1
+  index: -1
+Layer 2
+  rotate: false
+  xy: 289, 299
+  size: 78, 80
+  orig: 80, 82
+  offset: 1, 1
+  index: -1
+Layer 3
+  rotate: false
+  xy: 184, 257
+  size: 103, 122
+  orig: 105, 124
+  offset: 1, 1
+  index: -1
+Layer 4
+  rotate: false
+  xy: 2, 72
+  size: 105, 56
+  orig: 107, 58
+  offset: 1, 1
+  index: -1
+bg
+  rotate: false
+  xy: 2, 199
+  size: 180, 180
+  orig: 182, 182
+  offset: 1, 1
+  index: -1
+text
+  rotate: false
+  xy: 2, 130
+  size: 175, 67
+  orig: 177, 69
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,20 @@
+info face=font size=32 bold=1 italic=0 charset= unicode= stretchH=100 smooth=1 aa=1 padding=2,2,2,2 spacing=0,0 outline=0
+common lineHeight=80 base=63 scaleW=84 scaleH=362 pages=1 packed=0
+page id=0 file=mp1.png
+chars count=16
+char id=44 x=0 y=449 width=62 height=50 xoffset=0 yoffset=39 xadvance=63 page=0 chnl=15
+char id=55 x=0 y=112 width=99 height=111 xoffset=0 yoffset=-32 xadvance=100 page=0 chnl=15
+char id=45 x=62 y=449 width=56 height=37 xoffset=0 yoffset=18 xadvance=57 page=0 chnl=15
+char id=56 x=99 y=112 width=92 height=113 xoffset=0 yoffset=-33 xadvance=93 page=0 chnl=15
+char id=46 x=118 y=449 width=40 height=40 xoffset=0 yoffset=40 xadvance=41 page=0 chnl=15
+char id=57 x=94 y=335 width=93 height=112 xoffset=0 yoffset=-33 xadvance=94 page=0 chnl=15
+char id=48 x=0 y=335 width=94 height=114 xoffset=0 yoffset=-34 xadvance=95 page=0 chnl=15
+char id=49 x=191 y=111 width=64 height=112 xoffset=0 yoffset=-33 xadvance=65 page=0 chnl=15
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=10 page=0 chnl=15
+char id=50 x=187 y=337 width=91 height=112 xoffset=0 yoffset=-33 xadvance=92 page=0 chnl=15
+char id=51 x=0 y=0 width=101 height=112 xoffset=0 yoffset=-32 xadvance=102 page=0 chnl=15
+char id=52 x=101 y=0 width=92 height=111 xoffset=0 yoffset=-32 xadvance=93 page=0 chnl=15
+char id=53 x=0 y=223 width=98 height=112 xoffset=0 yoffset=-32 xadvance=99 page=0 chnl=15
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=10 page=0 chnl=15
+char id=43 x=98 y=225 width=78 height=76 xoffset=0 yoffset=-15 xadvance=79 page=0 chnl=15
+char id=54 x=187 y=225 width=92 height=112 xoffset=0 yoffset=-32 xadvance=93 page=0 chnl=15

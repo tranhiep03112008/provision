@@ -1,0 +1,139 @@
+
+icon_rongho.png
+size: 735,735
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: true
+  xy: 605, 265
+  size: 244, 128
+  orig: 300, 128
+  offset: 22, 0
+  index: -1
+bg
+  rotate: false
+  xy: 344, 495
+  size: 238, 238
+  orig: 240, 240
+  offset: 1, 1
+  index: -1
+bg2
+  rotate: false
+  xy: 605, 217
+  size: 79, 46
+  orig: 87, 50
+  offset: 3, 2
+  index: -1
+bg3
+  rotate: true
+  xy: 584, 511
+  size: 222, 131
+  orig: 222, 131
+  offset: 0, 0
+  index: -1
+d_h
+  rotate: false
+  xy: 537, 36
+  size: 135, 171
+  orig: 135, 171
+  offset: 0, 0
+  index: -1
+dg2
+  rotate: true
+  xy: 498, 58
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+dg3
+  rotate: false
+  xy: 302, 21
+  size: 63, 77
+  orig: 63, 77
+  offset: 0, 0
+  index: -1
+dragon
+  rotate: false
+  xy: 2, 13
+  size: 181, 139
+  orig: 181, 139
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 498, 29
+  size: 24, 27
+  orig: 26, 29
+  offset: 1, 1
+  index: -1
+head_tiger
+  rotate: false
+  xy: 344, 282
+  size: 200, 211
+  orig: 200, 211
+  offset: 0, 0
+  index: -1
+khung
+  rotate: false
+  xy: 188, 100
+  size: 184, 180
+  orig: 186, 182
+  offset: 1, 1
+  index: -1
+khung-light
+  rotate: true
+  xy: 374, 106
+  size: 174, 161
+  orig: 176, 172
+  offset: 1, 10
+  index: -1
+light
+  rotate: false
+  xy: 2, 154
+  size: 184, 293
+  orig: 203, 321
+  offset: 18, 24
+  index: -1
+lo
+  rotate: false
+  xy: 287, 373
+  size: 45, 74
+  orig: 48, 76
+  offset: 1, 1
+  index: -1
+lo2
+  rotate: false
+  xy: 374, 7
+  size: 122, 97
+  orig: 122, 97
+  offset: 0, 0
+  index: -1
+mouth_tiger
+  rotate: false
+  xy: 185, 19
+  size: 115, 79
+  orig: 115, 79
+  offset: 0, 0
+  index: -1
+rong ho
+  rotate: true
+  xy: 546, 209
+  size: 284, 57
+  orig: 284, 57
+  offset: 0, 0
+  index: -1
+tiger
+  rotate: false
+  xy: 2, 449
+  size: 340, 284
+  orig: 340, 284
+  offset: 0, 0
+  index: -1
+tigerhand
+  rotate: true
+  xy: 188, 327
+  size: 120, 97
+  orig: 122, 99
+  offset: 1, 1
+  index: -1

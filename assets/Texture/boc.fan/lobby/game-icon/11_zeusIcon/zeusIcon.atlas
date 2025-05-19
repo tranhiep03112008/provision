@@ -1,0 +1,139 @@
+
+zeusIcon.png
+size: 618,772
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 277, 263
+  size: 183, 124
+  orig: 183, 124
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 496, 495
+  size: 275, 120
+  orig: 275, 120
+  offset: 0, 0
+  index: -1
+bantay
+  rotate: true
+  xy: 468, 55
+  size: 83, 45
+  orig: 85, 47
+  offset: 1, 1
+  index: -1
+baotay
+  rotate: false
+  xy: 504, 141
+  size: 66, 86
+  orig: 68, 88
+  offset: 1, 1
+  index: -1
+bavai
+  rotate: false
+  xy: 515, 72
+  size: 62, 67
+  orig: 64, 69
+  offset: 1, 1
+  index: -1
+bg-icon
+  rotate: false
+  xy: 2, 402
+  size: 225, 368
+  orig: 230, 374
+  offset: 2, 4
+  index: -1
+cangtay
+  rotate: false
+  xy: 433, 140
+  size: 69, 87
+  orig: 71, 89
+  offset: 1, 1
+  index: -1
+chanphai
+  rotate: true
+  xy: 229, 389
+  size: 120, 264
+  orig: 122, 266
+  offset: 1, 1
+  index: -1
+chantrai
+  rotate: false
+  xy: 199, 130
+  size: 76, 257
+  orig: 78, 259
+  offset: 1, 1
+  index: -1
+dailung
+  rotate: false
+  xy: 462, 229
+  size: 125, 73
+  orig: 127, 75
+  offset: 1, 1
+  index: -1
+dau
+  rotate: true
+  xy: 495, 388
+  size: 105, 120
+  orig: 107, 122
+  offset: 1, 1
+  index: -1
+giapvai
+  rotate: true
+  xy: 403, 2
+  size: 119, 63
+  orig: 121, 65
+  offset: 1, 1
+  index: -1
+matset
+  rotate: false
+  xy: 468, 3
+  size: 59, 50
+  orig: 61, 52
+  offset: 1, 1
+  index: -1
+quan
+  rotate: false
+  xy: 229, 511
+  size: 265, 259
+  orig: 267, 261
+  offset: 1, 1
+  index: -1
+taysau
+  rotate: true
+  xy: 2, 5
+  size: 68, 170
+  orig: 70, 172
+  offset: 1, 1
+  index: -1
+than
+  rotate: false
+  xy: 277, 123
+  size: 154, 138
+  orig: 156, 140
+  offset: 1, 1
+  index: -1
+tiaset
+  rotate: true
+  xy: 2, 75
+  size: 325, 195
+  orig: 327, 197
+  offset: 1, 1
+  index: -1
+tuarua
+  rotate: true
+  xy: 462, 304
+  size: 82, 141
+  orig: 84, 143
+  offset: 1, 1
+  index: -1
+zeus-text
+  rotate: false
+  xy: 199, 34
+  size: 202, 87
+  orig: 209, 93
+  offset: 3, 4
+  index: -1

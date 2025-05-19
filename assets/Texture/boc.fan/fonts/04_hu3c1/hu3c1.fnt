@@ -1,0 +1,20 @@
+info face=font size=32 bold=1 italic=0 charset= unicode= stretchH=100 smooth=1 aa=1 padding=2,2,2,2 spacing=0,0 outline=0
+common lineHeight=24 base=63 scaleW=84 scaleH=362 pages=1 packed=0
+page id=0 file=hu3c1.png
+chars count=16
+char id=44 x=66 y=29 width=16 height=18 xoffset=0 yoffset=8 xadvance=18 page=0 chnl=15
+char id=55 x=25 y=29 width=23 height=28 xoffset=0 yoffset=-4 xadvance=25 page=0 chnl=15
+char id=45 x=48 y=58 width=22 height=17 xoffset=0 yoffset=3 xadvance=24 page=0 chnl=15
+char id=56 x=48 y=99 width=22 height=28 xoffset=0 yoffset=-4 xadvance=24 page=0 chnl=15
+char id=46 x=49 y=29 width=16 height=16 xoffset=0 yoffset=8 xadvance=18 page=0 chnl=15
+char id=57 x=0 y=90 width=23 height=29 xoffset=0 yoffset=-4 xadvance=25 page=0 chnl=15
+char id=48 x=0 y=0 width=24 height=29 xoffset=0 yoffset=-4 xadvance=26 page=0 chnl=15
+char id=49 x=49 y=0 width=19 height=28 xoffset=0 yoffset=-4 xadvance=21 page=0 chnl=15
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=56 page=0 chnl=15
+char id=50 x=24 y=90 width=23 height=28 xoffset=0 yoffset=-4 xadvance=25 page=0 chnl=15
+char id=51 x=0 y=60 width=23 height=29 xoffset=0 yoffset=-4 xadvance=25 page=0 chnl=15
+char id=52 x=25 y=0 width=23 height=28 xoffset=0 yoffset=-4 xadvance=25 page=0 chnl=15
+char id=53 x=24 y=60 width=23 height=29 xoffset=0 yoffset=-4 xadvance=25 page=0 chnl=15
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=7 page=0 chnl=15
+char id=43 x=48 y=76 width=22 height=22 xoffset=0 yoffset=0 xadvance=24 page=0 chnl=15
+char id=54 x=0 y=30 width=24 height=29 xoffset=0 yoffset=-4 xadvance=26 page=0 chnl=15

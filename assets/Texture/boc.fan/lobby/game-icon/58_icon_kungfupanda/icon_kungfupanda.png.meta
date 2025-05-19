@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "7d301a5e-b8c4-494b-b840-0ee6fff2c6ea",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": true,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 984,
+  "height": 984,
+  "platformSettings": {},
+  "subMetas": {
+    "icon_kungfupanda": {
+      "ver": "1.0.4",
+      "uuid": "88db9544-f2cb-4671-98e0-d2f797a1fd61",
+      "rawTextureUuid": "7d301a5e-b8c4-494b-b840-0ee6fff2c6ea",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2.5,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 975,
+      "height": 980,
+      "rawWidth": 984,
+      "rawHeight": 984,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

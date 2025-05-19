@@ -1,0 +1,146 @@
+{
+"skeleton": { "hash": "ySvi4801W+KJPMrfxlA0oekdfrI", "spine": "3.6.53", "width": 180, "height": 176, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "Layer 2", "parent": "root", "x": 29.45, "y": 159.54 },
+	{ "name": "Layer 3", "parent": "root", "x": -0.89, "y": 125.41 },
+	{ "name": "Layer 4", "parent": "root", "x": -25.54, "y": 167.13 },
+	{ "name": "Layer 5", "parent": "root", "x": -0.89, "y": 125.41 },
+	{ "name": "Layer 237 copy 2", "parent": "root", "x": -69.78, "y": 131.1 },
+	{ "name": "Layer 248 copy 2", "parent": "root", "x": 20.6, "y": 30.61 },
+	{ "name": "Layer 60 copy", "parent": "root", "x": 73.06, "y": 140.58 },
+	{ "name": "Layer 60 copy 2", "parent": "root", "x": -46.39, "y": 26.19 },
+	{ "name": "Layer 62 copy 19", "parent": "root", "x": 1.01, "y": 79.28 }
+],
+"slots": [
+	{ "name": "Layer 60 copy 2", "bone": "Layer 60 copy 2", "attachment": "Layer 60 copy 2" },
+	{ "name": "Layer 60 copy", "bone": "Layer 60 copy", "attachment": "Layer 60 copy" },
+	{ "name": "Layer 237 copy 2", "bone": "Layer 237 copy 2", "attachment": "Layer 237 copy 2" },
+	{ "name": "Layer 2", "bone": "Layer 2", "attachment": "Layer 2" },
+	{ "name": "Layer 25 copy 5", "bone": "root", "attachment": "Layer 25 copy 5" },
+	{ "name": "Layer 3", "bone": "Layer 3", "attachment": "Layer 3" },
+	{ "name": "Layer 5", "bone": "Layer 5", "color": "ffffff00", "attachment": "Layer 3", "blend": "additive" },
+	{ "name": "Layer 248 copy 2", "bone": "Layer 248 copy 2", "attachment": "Layer 248 copy 2" },
+	{ "name": "Layer 62 copy 19", "bone": "Layer 62 copy 19", "attachment": "Layer 62 copy 19" },
+	{ "name": "Layer 4", "bone": "Layer 4", "attachment": "Layer 4" }
+],
+"skins": {
+	"default": {
+		"Layer 2": {
+			"Layer 2": { "x": 0.18, "y": 2.72, "width": 34, "height": 32 }
+		},
+		"Layer 237 copy 2": {
+			"Layer 237 copy 2": { "x": -0.1, "y": 1.16, "width": 37, "height": 34 }
+		},
+		"Layer 248 copy 2": {
+			"Layer 248 copy 2": { "x": 0.52, "y": -0.36, "width": 43, "height": 42 }
+		},
+		"Layer 25 copy 5": {
+			"Layer 25 copy 5": { "x": -55.09, "y": 103.76, "width": 31, "height": 31 }
+		},
+		"Layer 3": {
+			"Layer 3": { "x": 0.51, "y": -2.66, "width": 98, "height": 59 }
+		},
+		"Layer 4": {
+			"Layer 4": { "x": -1.34, "y": -5.37, "width": 53, "height": 41 }
+		},
+		"Layer 5": {
+			"Layer 3": { "x": 0.51, "y": -2.66, "width": 98, "height": 59 }
+		},
+		"Layer 60 copy": {
+			"Layer 60 copy": { "x": -4.93, "y": 1.68, "width": 47, "height": 56 }
+		},
+		"Layer 60 copy 2": {
+			"Layer 60 copy 2": { "x": 2.52, "y": -2.43, "width": 53, "height": 35 }
+		},
+		"Layer 62 copy 19": {
+			"Layer 62 copy 19": { "x": -5.88, "y": 0.48, "width": 139, "height": 45 }
+		}
+	}
+},
+"animations": {
+	"idle": {
+		"slots": {
+			"Layer 5": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.8333, "color": "ffffff8d" },
+					{ "time": 1.6667, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"Layer 62 copy 19": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": -5.2 },
+					{ "time": 0.4, "x": 0, "y": -10 },
+					{ "time": 1.2333, "x": 0, "y": 0 },
+					{ "time": 1.6667, "x": 0, "y": -5.2 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1.04, "y": 1.04 },
+					{ "time": 0.4, "x": 1.076, "y": 1.076 },
+					{ "time": 1.2333, "x": 1, "y": 1 },
+					{ "time": 1.6667, "x": 1.04, "y": 1.04 }
+				]
+			},
+			"Layer 3": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": -9.6 },
+					{ "time": 0.4333, "x": 0, "y": -20 },
+					{ "time": 1.2667, "x": 0, "y": 0 },
+					{ "time": 1.6667, "x": 0, "y": -9.6 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.2667, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.6667, "x": 1, "y": 1 }
+				]
+			},
+			"Layer 248 copy 2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 5.2 },
+					{ "time": 0.4, "x": 0, "y": 10 },
+					{ "time": 1.2333, "x": 0, "y": 0 },
+					{ "time": 1.6667, "x": 0, "y": 5.2 }
+				]
+			},
+			"Layer 237 copy 2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 5.2 },
+					{ "time": 0.4, "x": 0, "y": 10 },
+					{ "time": 1.2333, "x": 0, "y": 0 },
+					{ "time": 1.6667, "x": 0, "y": 5.2 }
+				]
+			},
+			"Layer 60 copy 2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.8333, "x": 0, "y": -10 },
+					{ "time": 1.6667, "x": 0, "y": 0 }
+				]
+			},
+			"Layer 2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.8333, "x": 0, "y": -10 },
+					{ "time": 1.6667, "x": 0, "y": 0 }
+				]
+			},
+			"Layer 5": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": -9.6 },
+					{ "time": 0.4333, "x": 0, "y": -20 },
+					{ "time": 1.2667, "x": 0, "y": 0 },
+					{ "time": 1.6667, "x": 0, "y": -9.6 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.2667, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.6667, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

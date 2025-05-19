@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "a5e53a15-08d9-47a5-8367-6313c9fd883c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 735,
+  "height": 735,
+  "platformSettings": {},
+  "subMetas": {
+    "icon_rongho": {
+      "ver": "1.0.4",
+      "uuid": "ab4484e4-f74e-4e02-b096-51c26f037fa4",
+      "rawTextureUuid": "a5e53a15-08d9-47a5-8367-6313c9fd883c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -3,
+      "trimX": 2,
+      "trimY": 8,
+      "width": 731,
+      "height": 725,
+      "rawWidth": 735,
+      "rawHeight": 735,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

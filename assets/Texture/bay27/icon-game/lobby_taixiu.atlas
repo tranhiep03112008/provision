@@ -1,0 +1,41 @@
+
+lobby_taixiu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 206, 189
+  size: 65, 47
+  orig: 65, 47
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 178, 62
+  size: 74, 50
+  orig: 74, 50
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 2
+  size: 87, 252
+  orig: 87, 252
+  offset: 0, 0
+  index: -1
+t1
+  rotate: false
+  xy: 91, 138
+  size: 113, 116
+  orig: 113, 116
+  offset: 0, 0
+  index: -1
+t2
+  rotate: false
+  xy: 91, 48
+  size: 85, 88
+  orig: 85, 88
+  offset: 0, 0
+  index: -1

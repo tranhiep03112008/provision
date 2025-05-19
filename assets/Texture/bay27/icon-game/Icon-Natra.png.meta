@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "392de027-bf88-4ce7-9032-9565896bd0a2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 1024,
+  "platformSettings": {},
+  "subMetas": {
+    "Icon-Natra": {
+      "ver": "1.0.4",
+      "uuid": "7c3007d2-9ab0-4b4e-89e5-c44b2a55f60a",
+      "rawTextureUuid": "392de027-bf88-4ce7-9032-9565896bd0a2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -4.5,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 3,
+      "width": 1011,
+      "height": 1018,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

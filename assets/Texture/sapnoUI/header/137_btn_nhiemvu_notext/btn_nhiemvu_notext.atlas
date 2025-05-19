@@ -1,0 +1,27 @@
+
+btn_nhiemvu_notext.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 7
+  rotate: false
+  xy: 176, 37
+  size: 78, 75
+  orig: 78, 75
+  offset: 0, 0
+  index: -1
+btn_nhiemvu_notext
+  rotate: true
+  xy: 99, 20
+  size: 92, 75
+  orig: 92, 75
+  offset: 0, 0
+  index: -1
+btn_nhiemvu_notext2
+  rotate: true
+  xy: 2, 2
+  size: 110, 95
+  orig: 110, 95
+  offset: 0, 0
+  index: -1

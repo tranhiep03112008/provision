@@ -1,0 +1,20 @@
+
+eff_xocdia.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cai_bat
+  rotate: false
+  xy: 153, 9
+  size: 125, 105
+  orig: 125, 105
+  offset: 0, 0
+  index: -1
+cai_dia
+  rotate: false
+  xy: 2, 2
+  size: 149, 112
+  orig: 149, 112
+  offset: 0, 0
+  index: -1

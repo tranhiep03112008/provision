@@ -1,0 +1,146 @@
+
+board_vuasapno2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 1405, 912
+  size: 245, 98
+  orig: 245, 98
+  offset: 0, 0
+  index: -1
+board_vuasapno
+  rotate: false
+  xy: 2, 275
+  size: 1157, 735
+  orig: 1157, 735
+  offset: 0, 0
+  index: -1
+eff_phatsang
+  rotate: false
+  xy: 1161, 770
+  size: 242, 240
+  orig: 242, 240
+  offset: 0, 0
+  index: -1
+p_15
+  rotate: true
+  xy: 1161, 318
+  size: 184, 84
+  orig: 184, 84
+  offset: 0, 0
+  index: -1
+p_2
+  rotate: true
+  xy: 1554, 809
+  size: 101, 93
+  orig: 101, 93
+  offset: 0, 0
+  index: -1
+p_bang
+  rotate: false
+  xy: 680, 206
+  size: 192, 67
+  orig: 192, 67
+  offset: 0, 0
+  index: -1
+p_dongho
+  rotate: true
+  xy: 1982, 949
+  size: 61, 64
+  orig: 61, 64
+  offset: 0, 0
+  index: -1
+p_dongxeng
+  rotate: true
+  xy: 275, 7
+  size: 148, 102
+  orig: 148, 102
+  offset: 0, 0
+  index: -1
+p_hopqua
+  rotate: true
+  xy: 874, 183
+  size: 90, 92
+  orig: 90, 92
+  offset: 0, 0
+  index: -1
+p_ip1
+  rotate: true
+  xy: 1767, 934
+  size: 76, 106
+  orig: 76, 106
+  offset: 0, 0
+  index: -1
+p_ip2
+  rotate: true
+  xy: 1652, 926
+  size: 84, 113
+  orig: 84, 113
+  offset: 0, 0
+  index: -1
+p_kc1
+  rotate: false
+  xy: 1875, 937
+  size: 105, 73
+  orig: 105, 73
+  offset: 0, 0
+  index: -1
+p_kc2
+  rotate: false
+  xy: 968, 185
+  size: 62, 88
+  orig: 62, 88
+  offset: 0, 0
+  index: -1
+p_oto
+  rotate: true
+  xy: 1161, 504
+  size: 264, 131
+  orig: 264, 131
+  offset: 0, 0
+  index: -1
+p_ribbon
+  rotate: false
+  xy: 2, 157
+  size: 384, 116
+  orig: 384, 116
+  offset: 0, 0
+  index: -1
+p_vuasapno
+  rotate: false
+  xy: 388, 196
+  size: 290, 77
+  orig: 290, 77
+  offset: 0, 0
+  index: -1
+p_xemay
+  rotate: true
+  xy: 1405, 775
+  size: 135, 147
+  orig: 135, 147
+  offset: 0, 0
+  index: -1
+p_xeng1
+  rotate: false
+  xy: 1377, 744
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+p_xeng2
+  rotate: false
+  xy: 1294, 524
+  size: 81, 244
+  orig: 81, 244
+  offset: 0, 0
+  index: -1
+p_xeng3
+  rotate: false
+  xy: 2, 2
+  size: 271, 153
+  orig: 271, 153
+  offset: 0, 0
+  index: -1

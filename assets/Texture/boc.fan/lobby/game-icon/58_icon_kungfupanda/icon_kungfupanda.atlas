@@ -1,0 +1,104 @@
+
+icon_kungfupanda.png
+size: 984,984
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: true
+  xy: 2, 6
+  size: 148, 193
+  orig: 161, 205
+  offset: 8, 7
+  index: -1
+a1
+  rotate: true
+  xy: 593, 2
+  size: 158, 190
+  orig: 161, 201
+  offset: 0, 7
+  index: -1
+arm
+  rotate: false
+  xy: 646, 460
+  size: 178, 185
+  orig: 178, 185
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 156
+  size: 193, 369
+  orig: 193, 369
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 527
+  size: 267, 455
+  orig: 267, 455
+  offset: 0, 0
+  index: -1
+d
+  rotate: false
+  xy: 826, 454
+  size: 151, 191
+  orig: 154, 202
+  offset: 1, 4
+  index: -1
+fx1
+  rotate: false
+  xy: 604, 647
+  size: 365, 335
+  orig: 420, 352
+  offset: 33, 15
+  index: -1
+fx2
+  rotate: false
+  xy: 386, 330
+  size: 258, 266
+  orig: 258, 266
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 646, 270
+  size: 188, 164
+  orig: 188, 164
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 812, 249
+  size: 148, 203
+  orig: 152, 203
+  offset: 0, 0
+  index: -1
+line boder
+  rotate: false
+  xy: 197, 154
+  size: 187, 371
+  orig: 187, 371
+  offset: 0, 0
+  index: -1
+n
+  rotate: true
+  xy: 386, 162
+  size: 166, 207
+  orig: 172, 217
+  offset: 5, 6
+  index: -1
+opacity
+  rotate: false
+  xy: 271, 598
+  size: 331, 384
+  orig: 333, 389
+  offset: 1, 1
+  index: -1
+p
+  rotate: true
+  xy: 386, 2
+  size: 158, 205
+  orig: 164, 219
+  offset: 6, 7
+  index: -1

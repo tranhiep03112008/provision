@@ -1,0 +1,31 @@
+{
+	"game": {
+		"name": "bop ok_20220227133718",
+		"appid": "659402382",
+		"cid": 0
+	},
+	"needExecNative": true,
+	"configs": [
+		{
+			"appid": "604066179",
+			"services": [
+				{
+					"service_id": "235",
+					"enable": true
+				}
+			]
+		},
+		{
+			"appid": "UNKNOW"
+		},
+		{
+			"appid": "659402382",
+			"services": [
+				{
+					"service_id": "235",
+					"enable": false
+				}
+			]
+		}
+	]
+}

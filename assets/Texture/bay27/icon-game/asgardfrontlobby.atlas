@@ -1,0 +1,139 @@
+
+asgardfrontlobby.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 343, 641
+  size: 247, 339
+  orig: 247, 339
+  offset: 0, 0
+  index: -1
+Cloak
+  rotate: false
+  xy: 242, 242
+  size: 101, 157
+  orig: 101, 157
+  offset: 0, 0
+  index: -1
+Crow
+  rotate: true
+  xy: 370, 420
+  size: 90, 62
+  orig: 90, 62
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 242, 401
+  size: 126, 223
+  orig: 126, 223
+  offset: 0, 0
+  index: -1
+Horn
+  rotate: true
+  xy: 547, 558
+  size: 81, 48
+  orig: 81, 48
+  offset: 0, 0
+  index: -1
+L Hand
+  rotate: true
+  xy: 592, 661
+  size: 131, 223
+  orig: 131, 223
+  offset: 0, 0
+  index: -1
+L Shoudler
+  rotate: true
+  xy: 817, 677
+  size: 58, 80
+  orig: 58, 80
+  offset: 0, 0
+  index: -1
+L Wing
+  rotate: true
+  xy: 444, 509
+  size: 41, 58
+  orig: 41, 58
+  offset: 0, 0
+  index: -1
+Lightning Back
+  rotate: false
+  xy: 2, 626
+  size: 339, 354
+  orig: 339, 354
+  offset: 0, 0
+  index: -1
+Lightning Front
+  rotate: false
+  xy: 592, 794
+  size: 213, 186
+  orig: 213, 186
+  offset: 0, 0
+  index: -1
+R Hand
+  rotate: false
+  xy: 807, 809
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+R Shoulder
+  rotate: false
+  xy: 444, 552
+  size: 101, 87
+  orig: 101, 87
+  offset: 0, 0
+  index: -1
+R Wing
+  rotate: false
+  xy: 817, 737
+  size: 78, 70
+  orig: 78, 70
+  offset: 0, 0
+  index: -1
+Ribbon 1
+  rotate: false
+  xy: 370, 512
+  size: 72, 127
+  orig: 72, 127
+  offset: 0, 0
+  index: -1
+Ribbon 2
+  rotate: false
+  xy: 242, 60
+  size: 62, 180
+  orig: 62, 180
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 2, 62
+  size: 1, 1
+  orig: 238, 174
+  offset: 0, 0
+  index: -1
+Text
+  rotate: false
+  xy: 2, 2
+  size: 219, 58
+  orig: 219, 58
+  offset: 0, 0
+  index: -1
+Top Light
+  rotate: false
+  xy: 2, 238
+  size: 238, 386
+  orig: 238, 386
+  offset: 0, 0
+  index: -1
+Wolf
+  rotate: false
+  xy: 910, 836
+  size: 89, 144
+  orig: 89, 144
+  offset: 0, 0
+  index: -1

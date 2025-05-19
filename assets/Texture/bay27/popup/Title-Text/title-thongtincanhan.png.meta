@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "0b4d1335-0ce2-4da6-9002-2c50db28e036",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 337,
+  "height": 44,
+  "platformSettings": {},
+  "subMetas": {
+    "title-thongtincanhan": {
+      "ver": "1.0.4",
+      "uuid": "da6b13a9-b128-41c0-b323-b5fc01659305",
+      "rawTextureUuid": "0b4d1335-0ce2-4da6-9002-2c50db28e036",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 337,
+      "height": 44,
+      "rawWidth": 337,
+      "rawHeight": 44,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

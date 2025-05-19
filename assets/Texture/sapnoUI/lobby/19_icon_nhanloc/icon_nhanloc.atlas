@@ -1,0 +1,62 @@
+
+icon_nhanloc.png
+size: 248,708
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btay
+  rotate: false
+  xy: 196, 280
+  size: 30, 24
+  orig: 32, 26
+  offset: 1, 1
+  index: -1
+dau
+  rotate: true
+  xy: 2, 377
+  size: 327, 244
+  orig: 327, 244
+  offset: 0, 0
+  index: -1
+daybuoc
+  rotate: true
+  xy: 196, 306
+  size: 69, 50
+  orig: 69, 50
+  offset: 0, 0
+  index: -1
+giay
+  rotate: true
+  xy: 2, 79
+  size: 126, 168
+  orig: 126, 168
+  offset: 0, 0
+  index: -1
+quan
+  rotate: true
+  xy: 172, 70
+  size: 135, 71
+  orig: 138, 73
+  offset: 2, 1
+  index: -1
+quan2
+  rotate: false
+  xy: 142, 2
+  size: 104, 66
+  orig: 106, 68
+  offset: 1, 1
+  index: -1
+tay
+  rotate: true
+  xy: 2, 19
+  size: 58, 138
+  orig: 62, 140
+  offset: 2, 1
+  index: -1
+than
+  rotate: false
+  xy: 2, 207
+  size: 192, 168
+  orig: 213, 168
+  offset: 0, 0
+  index: -1

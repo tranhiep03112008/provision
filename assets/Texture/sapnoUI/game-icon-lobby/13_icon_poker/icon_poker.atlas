@@ -1,0 +1,55 @@
+
+icon_poker.png
+size: 188,596
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 184
+  size: 176, 171
+  orig: 176, 172
+  offset: 0, 1
+  index: -1
+coin1
+  rotate: false
+  xy: 98, 562
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+coin2
+  rotate: false
+  xy: 2, 578
+  size: 47, 16
+  orig: 47, 16
+  offset: 0, 0
+  index: -1
+coin3
+  rotate: false
+  xy: 51, 563
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+khung
+  rotate: false
+  xy: 2, 2
+  size: 184, 180
+  orig: 186, 182
+  offset: 1, 1
+  index: -1
+khung-light
+  rotate: false
+  xy: 2, 357
+  size: 174, 161
+  orig: 176, 172
+  offset: 1, 10
+  index: -1
+poker
+  rotate: false
+  xy: 2, 520
+  size: 153, 40
+  orig: 156, 42
+  offset: 2, 1
+  index: -1

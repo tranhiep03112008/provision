@@ -1,0 +1,83 @@
+
+gau3.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gau3_bong
+  rotate: false
+  xy: 485, 224
+  size: 300, 25
+  orig: 300, 25
+  offset: 0, 0
+  index: -1
+gau3_chan1
+  rotate: false
+  xy: 485, 117
+  size: 207, 105
+  orig: 207, 105
+  offset: 0, 0
+  index: -1
+gau3_chan2
+  rotate: false
+  xy: 268, 12
+  size: 103, 81
+  orig: 103, 81
+  offset: 0, 0
+  index: -1
+gau3_dau
+  rotate: true
+  xy: 694, 116
+  size: 106, 102
+  orig: 106, 103
+  offset: 0, 1
+  index: -1
+gau3_mat
+  rotate: true
+  xy: 971, 173
+  size: 76, 32
+  orig: 76, 32
+  offset: 0, 0
+  index: -1
+gau3_matdong
+  rotate: false
+  xy: 485, 100
+  size: 50, 15
+  orig: 50, 15
+  offset: 0, 0
+  index: -1
+gau3_mom
+  rotate: true
+  xy: 2, 2
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+gau3_tay
+  rotate: false
+  xy: 798, 138
+  size: 171, 111
+  orig: 171, 111
+  offset: 0, 0
+  index: -1
+gau3_taysau
+  rotate: false
+  xy: 373, 4
+  size: 92, 89
+  orig: 92, 89
+  offset: 0, 0
+  index: -1
+gau3_than
+  rotate: true
+  xy: 268, 95
+  size: 154, 215
+  orig: 154, 215
+  offset: 0, 0
+  index: -1
+gau3_tre
+  rotate: false
+  xy: 2, 47
+  size: 264, 202
+  orig: 264, 202
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,431 @@
+{
+  "ID": "9c9302ee-f583-4fd7-9a09-95cee1f0df83",
+  "Version": "2.3.4",
+  "Name": "TxDiceNode",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 54,
+        "Speed": 1.0,
+        "ActivedAnimationName": "rollDice",
+        "Timelines": [
+          {
+            "ActionTag": 666219080,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "animation01.png",
+                  "Plist": "TxDice/dices.plist"
+                },
+                "FrameIndex": 0,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "animation02.png",
+                  "Plist": "TxDice/dices.plist"
+                },
+                "FrameIndex": 3,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "animation03.png",
+                  "Plist": "TxDice/dices.plist"
+                },
+                "FrameIndex": 6,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "animation04.png",
+                  "Plist": "TxDice/dices.plist"
+                },
+                "FrameIndex": 9,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "animation05.png",
+                  "Plist": "TxDice/dices.plist"
+                },
+                "FrameIndex": 12,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "animation06.png",
+                  "Plist": "TxDice/dices.plist"
+                },
+                "FrameIndex": 15,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "animation07.png",
+                  "Plist": "TxDice/dices.plist"
+                },
+                "FrameIndex": 18,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "animation08.png",
+                  "Plist": "TxDice/dices.plist"
+                },
+                "FrameIndex": 21,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "animation09.png",
+                  "Plist": "TxDice/dices.plist"
+                },
+                "FrameIndex": 24,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "animation10.png",
+                  "Plist": "TxDice/dices.plist"
+                },
+                "FrameIndex": 27,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "animation11.png",
+                  "Plist": "TxDice/dices.plist"
+                },
+                "FrameIndex": 30,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "animation12.png",
+                  "Plist": "TxDice/dices.plist"
+                },
+                "FrameIndex": 33,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "animation13.png",
+                  "Plist": "TxDice/dices.plist"
+                },
+                "FrameIndex": 36,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "animation14.png",
+                  "Plist": "TxDice/dices.plist"
+                },
+                "FrameIndex": 39,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "animation15.png",
+                  "Plist": "TxDice/dices.plist"
+                },
+                "FrameIndex": 42,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "animation16.png",
+                  "Plist": "TxDice/dices.plist"
+                },
+                "FrameIndex": 45,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "animation17.png",
+                  "Plist": "TxDice/dices.plist"
+                },
+                "FrameIndex": 48,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "animation18.png",
+                  "Plist": "TxDice/dices.plist"
+                },
+                "FrameIndex": 51,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "animation19.png",
+                  "Plist": "TxDice/dices.plist"
+                },
+                "FrameIndex": 54,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [
+        {
+          "StartIndex": 0,
+          "EndIndex": 48,
+          "Name": "rollDice",
+          "ctype": "AnimationInfoData"
+        },
+        {
+          "StartIndex": 49,
+          "EndIndex": 54,
+          "Name": "finishRollDice",
+          "ctype": "AnimationInfoData"
+        }
+      ],
+      "ObjectData": {
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "animation01.png",
+              "Plist": "TxDice/dices.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 9.3568,
+              "Y": 1.3365
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -122.6432,
+            "RightMargin": -141.3568,
+            "TopMargin": -133.3365,
+            "BottomMargin": -130.6635,
+            "Tag": 54,
+            "ActionTag": 666219080,
+            "Size": {
+              "X": 264.0,
+              "Y": 264.0
+            },
+            "Name": "img3Dice",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "TxDice/1.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 5,
+            "Scale9OriginY": 6,
+            "Scale9Width": 89,
+            "Scale9Height": 87,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 12.1587,
+              "Y": 52.1352
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": -4.0,
+            "RotationSkewY": -4.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -37.3413,
+            "RightMargin": -61.6587,
+            "TopMargin": -101.6352,
+            "BottomMargin": 2.6352,
+            "Tag": 12,
+            "ActionTag": 553446347,
+            "Size": {
+              "X": 99.0,
+              "Y": 99.0
+            },
+            "Name": "imgDiceDot0",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "TxDice/3.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 5,
+            "Scale9OriginY": 6,
+            "Scale9Width": 89,
+            "Scale9Height": 87,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -38.8656,
+              "Y": -40.3037
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -88.3656,
+            "RightMargin": -10.6344,
+            "TopMargin": -9.1963,
+            "BottomMargin": -89.8037,
+            "Tag": 13,
+            "ActionTag": 1097786506,
+            "Size": {
+              "X": 99.0,
+              "Y": 99.0
+            },
+            "Name": "imgDiceDot1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "TxDice/4.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 5,
+            "Scale9OriginY": 6,
+            "Scale9Width": 89,
+            "Scale9Height": 87,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 60.7617,
+              "Y": -39.2449
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": -10.0,
+            "RotationSkewY": -10.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 11.2617,
+            "RightMargin": -110.2617,
+            "TopMargin": -10.2551,
+            "BottomMargin": -88.7449,
+            "Tag": 14,
+            "ActionTag": 191995364,
+            "Size": {
+              "X": 99.0,
+              "Y": 99.0
+            },
+            "Name": "imgDiceDot2",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "TxDice/1.png",
+        "TxDice/3.png",
+        "TxDice/4.png",
+        "TxDice/dices.plist",
+        "TxDice/dices.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

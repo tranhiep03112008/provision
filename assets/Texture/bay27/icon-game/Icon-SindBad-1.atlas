@@ -1,0 +1,48 @@
+
+Icon-SindBad-1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Kungfu
+  rotate: false
+  xy: 2, 2
+  size: 102, 36
+  orig: 102, 36
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 276, 80
+  size: 105, 102
+  orig: 105, 102
+  offset: 0, 0
+  index: -1
+PANDA
+  rotate: false
+  xy: 276, 184
+  size: 188, 58
+  orig: 188, 58
+  offset: 0, 0
+  index: -1
+bodygau
+  rotate: true
+  xy: 2, 40
+  size: 202, 272
+  orig: 202, 272
+  offset: 0, 0
+  index: -1
+daugau
+  rotate: false
+  xy: 383, 49
+  size: 63, 133
+  orig: 63, 133
+  offset: 0, 0
+  index: -1
+taygau2
+  rotate: false
+  xy: 276, 32
+  size: 73, 46
+  orig: 73, 46
+  offset: 0, 0
+  index: -1

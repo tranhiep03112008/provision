@@ -1,0 +1,76 @@
+
+napngayx2.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GUI-Edited_0000_Button
+  rotate: false
+  xy: 266, 34
+  size: 167, 89
+  orig: 167, 89
+  offset: 0, 0
+  index: -1
+Lower Light
+  rotate: false
+  xy: 2, 93
+  size: 262, 30
+  orig: 279, 31
+  offset: 1, 0
+  index: -1
+Lower Light 2
+  rotate: false
+  xy: 2, 5
+  size: 87, 51
+  orig: 89, 53
+  offset: 1, 1
+  index: -1
+Nap
+  rotate: false
+  xy: 435, 93
+  size: 137, 30
+  orig: 137, 30
+  offset: 0, 0
+  index: -1
+Point Light
+  rotate: false
+  xy: 175, 15
+  size: 42, 41
+  orig: 44, 43
+  offset: 1, 1
+  index: -1
+Ray 1
+  rotate: true
+  xy: 574, 80
+  size: 43, 87
+  orig: 45, 89
+  offset: 1, 1
+  index: -1
+Thick Ray
+  rotate: true
+  xy: 435, 30
+  size: 61, 79
+  orig: 63, 81
+  offset: 1, 1
+  index: -1
+Thick Ray 2
+  rotate: true
+  xy: 91, 2
+  size: 54, 82
+  orig: 56, 84
+  offset: 1, 1
+  index: -1
+Top Light
+  rotate: false
+  xy: 2, 58
+  size: 246, 33
+  orig: 248, 35
+  offset: 1, 1
+  index: -1
+flare 50
+  rotate: false
+  xy: 663, 90
+  size: 33, 33
+  orig: 37, 37
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,83 @@
+
+icon_daily2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bich
+  rotate: false
+  xy: 188, 129
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+co
+  rotate: false
+  xy: 84, 57
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+li1
+  rotate: false
+  xy: 2, 24
+  size: 80, 52
+  orig: 80, 52
+  offset: 0, 0
+  index: -1
+li2
+  rotate: false
+  xy: 188, 150
+  size: 68, 48
+  orig: 68, 48
+  offset: 0, 0
+  index: -1
+li3
+  rotate: false
+  xy: 523, 337
+  size: 64, 41
+  orig: 64, 41
+  offset: 0, 0
+  index: -1
+li4
+  rotate: false
+  xy: 2, 78
+  size: 184, 120
+  orig: 184, 120
+  offset: 0, 0
+  index: -1
+ro
+  rotate: false
+  xy: 2, 2
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+tep
+  rotate: false
+  xy: 743, 444
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 523, 380
+  size: 218, 85
+  orig: 218, 85
+  offset: 0, 0
+  index: -1
+tron1
+  rotate: false
+  xy: 2, 200
+  size: 264, 265
+  orig: 264, 265
+  offset: 0, 0
+  index: -1
+vong xoay
+  rotate: false
+  xy: 268, 210
+  size: 253, 255
+  orig: 253, 255
+  offset: 0, 0
+  index: -1

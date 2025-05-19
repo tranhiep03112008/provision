@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "da835b70-e25f-4afe-8bd8-b27528e5d19e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 130,
+  "height": 131,
+  "platformSettings": {},
+  "subMetas": {
+    "telegram-icon": {
+      "ver": "1.0.4",
+      "uuid": "38c2d561-d272-491c-88bf-ca1d24b2bb82",
+      "rawTextureUuid": "da835b70-e25f-4afe-8bd8-b27528e5d19e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 6,
+      "trimY": 7,
+      "width": 118,
+      "height": 118,
+      "rawWidth": 130,
+      "rawHeight": 131,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

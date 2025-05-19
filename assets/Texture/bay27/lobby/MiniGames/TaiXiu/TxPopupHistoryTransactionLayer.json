@@ -1,0 +1,1132 @@
+{
+  "ID": "d69d0e48-8c16-4dd3-9212-2c03f78584a4",
+  "Version": "3.10.0.0",
+  "Name": "TxPopupHistoryTransactionLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 220,
+        "Children": [
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0,
+              "Y": 0
+            },
+            "Scale": {
+              "ScaleX": 1,
+              "ScaleY": 1
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0,
+              "Y": 0
+            },
+            "PreSize": {
+              "X": 0,
+              "Y": 0
+            },
+            "RightMargin": 1280,
+            "TopMargin": 720,
+            "Tag": 2023,
+            "Children": [
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleX": 1,
+                  "ScaleY": 0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Scale": {
+                  "ScaleX": 1,
+                  "ScaleY": 1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "PreSize": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "RightMargin": -1280,
+                "TopMargin": -720,
+                "Tag": 2024,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "TxImageX/popup-big.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 390,
+                    "Scale9OriginY": 230,
+                    "Scale9Width": 134,
+                    "Scale9Height": 160,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 640,
+                      "Y": 360
+                    },
+                    "Scale": {
+                      "ScaleX": 1,
+                      "ScaleY": 1
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PercentHeightEnable": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.9375,
+                      "Y": 0.8611
+                    },
+                    "LeftMargin": 40,
+                    "RightMargin": 40,
+                    "TopMargin": 50,
+                    "BottomMargin": 50,
+                    "Tag": 2025,
+                    "ActionTag": 638824467,
+                    "Size": {
+                      "X": 1200,
+                      "Y": 620
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "TxImageX/lichsugiaodich-title.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 640,
+                      "Y": 600.88
+                    },
+                    "Scale": {
+                      "ScaleX": 1.3,
+                      "ScaleY": 1.3
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.8346
+                    },
+                    "PreSize": {
+                      "X": 0.243,
+                      "Y": 0.0708
+                    },
+                    "LeftMargin": 484.5,
+                    "RightMargin": 484.5,
+                    "TopMargin": 93.62,
+                    "BottomMargin": 575.38,
+                    "Tag": 1291,
+                    "ActionTag": 1804994096,
+                    "Size": {
+                      "X": 311,
+                      "Y": 51
+                    },
+                    "Name": "Sprite_7",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "TxImageRevise/close-btn.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 23,
+                    "Scale9OriginY": 23,
+                    "Scale9Width": 34,
+                    "Scale9Height": 33,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2,
+                    "ShadowOffsetY": -2,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5042,
+                      "ScaleY": 0.4554
+                    },
+                    "Position": {
+                      "X": 1200.5708,
+                      "Y": 632.2701
+                    },
+                    "Scale": {
+                      "ScaleX": 1,
+                      "ScaleY": 1
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.9379,
+                      "Y": 0.8782
+                    },
+                    "PreSize": {
+                      "X": 0.0625,
+                      "Y": 0.1097
+                    },
+                    "LeftMargin": 1160.2368,
+                    "RightMargin": 39.7632,
+                    "TopMargin": 44.7044,
+                    "BottomMargin": 596.2956,
+                    "Tag": 2026,
+                    "ActionTag": 759714615,
+                    "Size": {
+                      "X": 80,
+                      "Y": 79
+                    },
+                    "Name": "btnClose",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 36,
+                    "LabelText": "Thông Báo",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "TxFonts/UTM Sharnay.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineSize": 2,
+                    "OutlineColor": {
+                      "R": 54,
+                      "G": 30,
+                      "B": 2
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2,
+                    "ShadowOffsetY": -2,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 640,
+                      "Y": 649.9998
+                    },
+                    "Scale": {
+                      "ScaleX": 1,
+                      "ScaleY": 1
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.9028
+                    },
+                    "PreSize": {
+                      "X": 0.1484,
+                      "Y": 0.0708
+                    },
+                    "LeftMargin": 545,
+                    "RightMargin": 545,
+                    "TopMargin": 44.5002,
+                    "BottomMargin": 624.4998,
+                    "Tag": 2027,
+                    "ActionTag": 1253860706,
+                    "Size": {
+                      "X": 190,
+                      "Y": 51
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "txtTitle",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "TxImageRevise/line2.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 640,
+                      "Y": 623.0004
+                    },
+                    "Scale": {
+                      "ScaleX": 1,
+                      "ScaleY": 1
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.8653
+                    },
+                    "PreSize": {
+                      "X": 0.3562,
+                      "Y": 0.0014
+                    },
+                    "LeftMargin": 412,
+                    "RightMargin": 412,
+                    "TopMargin": 96.4996,
+                    "BottomMargin": 622.5004,
+                    "Tag": 2028,
+                    "ActionTag": 114487933,
+                    "Size": {
+                      "X": 456,
+                      "Y": 1
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "line",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 1057519507,
+                "Size": {
+                  "X": 1280,
+                  "Y": 720
+                },
+                "Name": "pnlBg",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 1381804420,
+            "Size": {
+              "X": 0,
+              "Y": 0
+            },
+            "Name": "baseNode",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "ClipAble": false,
+            "ComboBoxIndex": 1,
+            "SingleColor": {},
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleX": 1,
+              "ScaleY": 0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640,
+              "Y": 516.456
+            },
+            "Scale": {
+              "ScaleX": 1,
+              "ScaleY": 1
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.7173
+            },
+            "PreSize": {
+              "X": 0.8828,
+              "Y": 0.0028
+            },
+            "LeftMargin": 75,
+            "RightMargin": 75,
+            "TopMargin": 202.544,
+            "BottomMargin": 515.456,
+            "Tag": 1758,
+            "ActionTag": 1626842,
+            "Size": {
+              "X": 1130,
+              "Y": 2
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "DirectionType": "Vertical",
+            "IsBounceEnabled": true,
+            "ScrollDirectionType": 0,
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 150
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 150
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleX": 1,
+              "ScaleY": 0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 640,
+              "Y": 85
+            },
+            "Scale": {
+              "ScaleX": 1,
+              "ScaleY": 1
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.1181
+            },
+            "PreSize": {
+              "X": 0.8828,
+              "Y": 0.5903
+            },
+            "LeftMargin": 75,
+            "RightMargin": 75,
+            "TopMargin": 210,
+            "BottomMargin": 85,
+            "Tag": 390,
+            "ActionTag": 1835130953,
+            "Size": {
+              "X": 1130,
+              "Y": 425
+            },
+            "Name": "lvContent",
+            "ctype": "ListViewObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 640,
+              "Y": 537.552
+            },
+            "Scale": {
+              "ScaleX": 1,
+              "ScaleY": 1
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.7466
+            },
+            "PreSize": {
+              "X": 0,
+              "Y": 0
+            },
+            "LeftMargin": 640,
+            "RightMargin": 640,
+            "TopMargin": 182.448,
+            "BottomMargin": 537.552,
+            "Tag": 965,
+            "Children": [
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleX": 1,
+                  "ScaleY": 0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Scale": {
+                  "ScaleX": 1,
+                  "ScaleY": 1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "PreSize": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "LeftMargin": -565,
+                "RightMargin": -565,
+                "TopMargin": -30,
+                "BottomMargin": -30,
+                "Tag": 948,
+                "Children": [
+                  {
+                    "FontSize": 25,
+                    "LabelText": "THỰC NHẬN",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "TxFonts/UTM AvoBold_Italic.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Right",
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2,
+                    "ShadowOffsetY": -2,
+                    "AnchorPoint": {
+                      "ScaleX": 1,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1118.7666,
+                      "Y": 31.998
+                    },
+                    "Scale": {
+                      "ScaleX": 1,
+                      "ScaleY": 1
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.9901,
+                      "Y": 0.5333
+                    },
+                    "PreSize": {
+                      "X": 0.1407,
+                      "Y": 0.6167
+                    },
+                    "LeftMargin": 959.7666,
+                    "RightMargin": 11.2334,
+                    "TopMargin": 9.502,
+                    "BottomMargin": 13.498,
+                    "Tag": 949,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "TxResCode/coin.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 33,
+                        "Scale9Height": 34,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 190.8,
+                          "Y": 15.4993
+                        },
+                        "Scale": {
+                          "ScaleX": 1,
+                          "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 1.2,
+                          "Y": 0.4189
+                        },
+                        "PreSize": {
+                          "X": 0.1761,
+                          "Y": 0.7568
+                        },
+                        "LeftMargin": 176.8,
+                        "RightMargin": -45.8,
+                        "TopMargin": 7.5007,
+                        "BottomMargin": 1.4993,
+                        "Tag": 950,
+                        "ActionTag": 1286139721,
+                        "Size": {
+                          "X": 28,
+                          "Y": 28
+                        },
+                        "Name": "imgCoin",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -1507681723,
+                    "Size": {
+                      "X": 159,
+                      "Y": 37
+                    },
+                    "Name": "txtNhan",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 25,
+                    "LabelText": "HOÀN TRẢ",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "TxFonts/UTM AvoBold_Italic.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Right",
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2,
+                    "ShadowOffsetY": -2,
+                    "AnchorPoint": {
+                      "ScaleX": 1,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 940.7975,
+                      "Y": 31.998
+                    },
+                    "Scale": {
+                      "ScaleX": 1,
+                      "ScaleY": 1
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.8326,
+                      "Y": 0.5333
+                    },
+                    "PreSize": {
+                      "X": 0.1204,
+                      "Y": 0.6167
+                    },
+                    "LeftMargin": 804.7975,
+                    "RightMargin": 189.2025,
+                    "TopMargin": 9.502,
+                    "BottomMargin": 13.498,
+                    "Tag": 951,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "TxResCode/coin.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 33,
+                        "Scale9Height": 34,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 163.2,
+                          "Y": 15.4993
+                        },
+                        "Scale": {
+                          "ScaleX": 1,
+                          "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 1.2,
+                          "Y": 0.4189
+                        },
+                        "PreSize": {
+                          "X": 0.2059,
+                          "Y": 0.7568
+                        },
+                        "LeftMargin": 149.2,
+                        "RightMargin": -41.2,
+                        "TopMargin": 7.5007,
+                        "BottomMargin": 1.4993,
+                        "Tag": 952,
+                        "ActionTag": 99945012,
+                        "Size": {
+                          "X": 28,
+                          "Y": 28
+                        },
+                        "Name": "imgCoin",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 1043673633,
+                    "Size": {
+                      "X": 136,
+                      "Y": 37
+                    },
+                    "Name": "txtTraLai",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 25,
+                    "LabelText": "TỔNG ĐẶT",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "TxFonts/UTM AvoBold_Italic.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Right",
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2,
+                    "ShadowOffsetY": -2,
+                    "AnchorPoint": {
+                      "ScaleX": 1,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 781.5673,
+                      "Y": 31.998
+                    },
+                    "Scale": {
+                      "ScaleX": 1,
+                      "ScaleY": 1
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.6917,
+                      "Y": 0.5333
+                    },
+                    "PreSize": {
+                      "X": 0.123,
+                      "Y": 0.6167
+                    },
+                    "LeftMargin": 642.5673,
+                    "RightMargin": 348.4327,
+                    "TopMargin": 9.502,
+                    "BottomMargin": 13.498,
+                    "Tag": 953,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "TxResCode/coin.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 33,
+                        "Scale9Height": 34,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 166.8,
+                          "Y": 15.4993
+                        },
+                        "Scale": {
+                          "ScaleX": 1,
+                          "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 1.2,
+                          "Y": 0.4189
+                        },
+                        "PreSize": {
+                          "X": 0.2014,
+                          "Y": 0.7568
+                        },
+                        "LeftMargin": 152.8,
+                        "RightMargin": -41.8,
+                        "TopMargin": 7.5007,
+                        "BottomMargin": 1.4993,
+                        "Tag": 954,
+                        "ActionTag": -335195389,
+                        "Size": {
+                          "X": 28,
+                          "Y": 28
+                        },
+                        "Name": "imgCoin",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 1257633704,
+                    "Size": {
+                      "X": 139,
+                      "Y": 37
+                    },
+                    "Name": "txtTienDat",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 25,
+                    "LabelText": "CỬA ĐẶT",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "TxFonts/UTM AvoBold_Italic.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2,
+                    "ShadowOffsetY": -2,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 420.8021,
+                      "Y": 31.998
+                    },
+                    "Scale": {
+                      "ScaleX": 1,
+                      "ScaleY": 1
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.3724,
+                      "Y": 0.5333
+                    },
+                    "PreSize": {
+                      "X": 0.1088,
+                      "Y": 0.6167
+                    },
+                    "LeftMargin": 359.3021,
+                    "RightMargin": 647.6979,
+                    "TopMargin": 9.502,
+                    "BottomMargin": 13.498,
+                    "Tag": 955,
+                    "ActionTag": 696048275,
+                    "Size": {
+                      "X": 123,
+                      "Y": 37
+                    },
+                    "Name": "txtCuaDat",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 25,
+                    "LabelText": "KẾT QUẢ",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "TxFonts/UTM AvoBold_Italic.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2,
+                    "ShadowOffsetY": -2,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 553.4941,
+                      "Y": 31.998
+                    },
+                    "Scale": {
+                      "ScaleX": 1,
+                      "ScaleY": 1
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.4898,
+                      "Y": 0.5333
+                    },
+                    "PreSize": {
+                      "X": 0.0991,
+                      "Y": 0.6167
+                    },
+                    "LeftMargin": 497.4941,
+                    "RightMargin": 520.5059,
+                    "TopMargin": 9.502,
+                    "BottomMargin": 13.498,
+                    "Tag": 956,
+                    "ActionTag": 1611559496,
+                    "Size": {
+                      "X": 112,
+                      "Y": 37
+                    },
+                    "Name": "txtKetQua",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 25,
+                    "LabelText": "THỜI GIAN",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "TxFonts/UTM AvoBold_Italic.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2,
+                    "ShadowOffsetY": -2,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 244.6595,
+                      "Y": 31.998
+                    },
+                    "Scale": {
+                      "ScaleX": 1,
+                      "ScaleY": 1
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.2165,
+                      "Y": 0.5333
+                    },
+                    "PreSize": {
+                      "X": 0.1248,
+                      "Y": 0.6167
+                    },
+                    "LeftMargin": 174.1595,
+                    "RightMargin": 814.8405,
+                    "TopMargin": 9.502,
+                    "BottomMargin": 13.498,
+                    "Tag": 957,
+                    "ActionTag": -1318062789,
+                    "Size": {
+                      "X": 141,
+                      "Y": 37
+                    },
+                    "Name": "txtThoiGian",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 25,
+                    "LabelText": "PHIÊN",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "TxFonts/UTM AvoBold_Italic.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2,
+                    "ShadowOffsetY": -2,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 52.095,
+                      "Y": 31.998
+                    },
+                    "Scale": {
+                      "ScaleX": 1,
+                      "ScaleY": 1
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.0461,
+                      "Y": 0.5333
+                    },
+                    "PreSize": {
+                      "X": 0.0717,
+                      "Y": 0.6167
+                    },
+                    "LeftMargin": 11.595,
+                    "RightMargin": 1037.405,
+                    "TopMargin": 9.502,
+                    "BottomMargin": 13.498,
+                    "Tag": 958,
+                    "ActionTag": 475661287,
+                    "Size": {
+                      "X": 81,
+                      "Y": 37
+                    },
+                    "Name": "txtPhien",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -614188475,
+                "Size": {
+                  "X": 1130,
+                  "Y": 60
+                },
+                "Name": "pnlItem",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 1461822147,
+            "Size": {
+              "X": 0,
+              "Y": 0
+            },
+            "Name": "headerNod",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280,
+          "Y": 720
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "TxFonts/UTM AvoBold_Italic.ttf",
+        "TxFonts/UTM Sharnay.ttf",
+        "TxImageRevise/close-btn.png",
+        "TxImageRevise/line2.png",
+        "TxImageX/lichsugiaodich-title.png",
+        "TxImageX/popup-big.png",
+        "TxResCode/coin.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

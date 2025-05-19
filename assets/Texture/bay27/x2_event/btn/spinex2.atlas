@@ -1,0 +1,62 @@
+
+spinex2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Flare_001
+  rotate: false
+  xy: 2, 44
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+Flare_Glow_001
+  rotate: false
+  xy: 209, 180
+  size: 205, 69
+  orig: 205, 69
+  offset: 0, 0
+  index: -1
+L_Wheat
+  rotate: false
+  xy: 339, 120
+  size: 37, 58
+  orig: 39, 60
+  offset: 1, 1
+  index: -1
+R_Wheat
+  rotate: true
+  xy: 87, 5
+  size: 37, 58
+  orig: 39, 60
+  offset: 1, 1
+  index: -1
+Text
+  rotate: false
+  xy: 2, 2
+  size: 83, 40
+  orig: 85, 42
+  offset: 1, 1
+  index: -1
+X2
+  rotate: false
+  xy: 416, 207
+  size: 65, 42
+  orig: 67, 44
+  offset: 1, 1
+  index: -1
+glow_point2_yellow
+  rotate: false
+  xy: 209, 50
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+star_red
+  rotate: false
+  xy: 339, 81
+  size: 37, 37
+  orig: 51, 51
+  offset: 7, 7
+  index: -1

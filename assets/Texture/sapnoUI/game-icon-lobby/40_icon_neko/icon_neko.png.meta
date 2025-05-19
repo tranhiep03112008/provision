@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "9a1161d8-ab1f-4cd0-9b2b-71fe18ba77a3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "icon_neko": {
+      "ver": "1.0.4",
+      "uuid": "9f921bad-a3bd-4490-98ab-f34426d7b6ad",
+      "rawTextureUuid": "9a1161d8-ab1f-4cd0-9b2b-71fe18ba77a3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -10,
+      "offsetY": 9.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1000,
+      "height": 233,
+      "rawWidth": 1024,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

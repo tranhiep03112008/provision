@@ -1,0 +1,316 @@
+{
+  "skeleton": {
+    "hash": "xC7wC7q7jTpL+n0b68Ypd8u+mJY",
+    "spine": "3.6.53",
+    "width": 219.67,
+    "height": 219.67,
+    "images": "",
+    "audio": ""
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "bone",
+      "parent": "root",
+      "length": 148.34,
+      "rotation": 5,
+      "x": -42.77,
+      "y": -8.97,
+      "scaleX": 0.5,
+      "scaleY": 0.5
+    },
+    {
+      "name": "bone2",
+      "parent": "root",
+      "x": -16.96
+    }
+  ],
+  "slots": [
+    {
+      "name": "Comp 1_00000",
+      "bone": "bone",
+      "attachment": "Comp 1_00019"
+    },
+    {
+      "name": "15",
+      "bone": "bone2",
+      "attachment": "15"
+    }
+  ],
+  "skins": {
+    "default": {
+      "15": {
+        "15": {
+          "y": 0.5,
+          "width": 84,
+          "height": 45
+        }
+      },
+      "Comp 1_00000": {
+        "Comp 1_00000": {
+          "x": 125.03,
+          "y": 8.76,
+          "rotation": -89.05,
+          "width": 400,
+          "height": 400
+        },
+        "Comp 1_00001": {
+          "x": 125.03,
+          "y": 8.76,
+          "rotation": -89.05,
+          "width": 400,
+          "height": 400
+        },
+        "Comp 1_00002": {
+          "x": 125.03,
+          "y": 8.76,
+          "rotation": -89.05,
+          "width": 400,
+          "height": 400
+        },
+        "Comp 1_00003": {
+          "x": 125.03,
+          "y": 8.76,
+          "rotation": -89.05,
+          "width": 400,
+          "height": 400
+        },
+        "Comp 1_00004": {
+          "x": 125.03,
+          "y": 8.76,
+          "rotation": -89.05,
+          "width": 400,
+          "height": 400
+        },
+        "Comp 1_00005": {
+          "x": 125.03,
+          "y": 8.76,
+          "rotation": -89.05,
+          "width": 400,
+          "height": 400
+        },
+        "Comp 1_00006": {
+          "x": 125.03,
+          "y": 8.76,
+          "rotation": -89.05,
+          "width": 400,
+          "height": 400
+        },
+        "Comp 1_00007": {
+          "x": 125.03,
+          "y": 8.76,
+          "rotation": -89.05,
+          "width": 400,
+          "height": 400
+        },
+        "Comp 1_00008": {
+          "x": 125.03,
+          "y": 8.76,
+          "rotation": -89.05,
+          "width": 400,
+          "height": 400
+        },
+        "Comp 1_00009": {
+          "x": 125.03,
+          "y": 8.76,
+          "rotation": -89.05,
+          "width": 400,
+          "height": 400
+        },
+        "Comp 1_00010": {
+          "x": 125.03,
+          "y": 8.76,
+          "rotation": -89.05,
+          "width": 400,
+          "height": 400
+        },
+        "Comp 1_00011": {
+          "x": 125.03,
+          "y": 8.76,
+          "rotation": -89.05,
+          "width": 400,
+          "height": 400
+        },
+        "Comp 1_00012": {
+          "x": 125.03,
+          "y": 8.76,
+          "rotation": -89.05,
+          "width": 400,
+          "height": 400
+        },
+        "Comp 1_00013": {
+          "x": 125.03,
+          "y": 8.76,
+          "rotation": -89.05,
+          "width": 400,
+          "height": 400
+        },
+        "Comp 1_00014": {
+          "x": 125.03,
+          "y": 8.76,
+          "rotation": -89.05,
+          "width": 400,
+          "height": 400
+        },
+        "Comp 1_00015": {
+          "x": 125.03,
+          "y": 8.76,
+          "rotation": -89.05,
+          "width": 400,
+          "height": 400
+        },
+        "Comp 1_00016": {
+          "x": 125.03,
+          "y": 8.76,
+          "rotation": -89.05,
+          "width": 400,
+          "height": 400
+        },
+        "Comp 1_00017": {
+          "x": 125.03,
+          "y": 8.76,
+          "rotation": -89.05,
+          "width": 400,
+          "height": 400
+        },
+        "Comp 1_00018": {
+          "x": 125.03,
+          "y": 8.76,
+          "rotation": -89.05,
+          "width": 400,
+          "height": 400
+        },
+        "Comp 1_00019": {
+          "x": 125.03,
+          "y": 8.76,
+          "rotation": -89.05,
+          "width": 400,
+          "height": 400
+        }
+      }
+    }
+  },
+  "animations": {
+    "Idle": {
+      "slots": {
+        "Comp 1_00000": {
+          "attachment": [
+            {
+              "time": 0,
+              "name": "Comp 1_00000"
+            },
+            {
+              "time": 0.0667,
+              "name": "Comp 1_00001"
+            },
+            {
+              "time": 0.1,
+              "name": "Comp 1_00002"
+            },
+            {
+              "time": 0.1667,
+              "name": "Comp 1_00003"
+            },
+            {
+              "time": 0.2,
+              "name": "Comp 1_00004"
+            },
+            {
+              "time": 0.2667,
+              "name": "Comp 1_00005"
+            },
+            {
+              "time": 0.3333,
+              "name": "Comp 1_00006"
+            },
+            {
+              "time": 0.3667,
+              "name": "Comp 1_00007"
+            },
+            {
+              "time": 0.4333,
+              "name": "Comp 1_00008"
+            },
+            {
+              "time": 0.4667,
+              "name": "Comp 1_00009"
+            },
+            {
+              "time": 0.5333,
+              "name": "Comp 1_00010"
+            },
+            {
+              "time": 0.6,
+              "name": "Comp 1_00011"
+            },
+            {
+              "time": 0.6333,
+              "name": "Comp 1_00012"
+            },
+            {
+              "time": 0.7,
+              "name": "Comp 1_00013"
+            },
+            {
+              "time": 0.7333,
+              "name": "Comp 1_00014"
+            },
+            {
+              "time": 0.8,
+              "name": "Comp 1_00015"
+            },
+            {
+              "time": 0.8333,
+              "name": "Comp 1_00016"
+            },
+            {
+              "time": 0.9,
+              "name": "Comp 1_00017"
+            },
+            {
+              "time": 0.9667,
+              "name": "Comp 1_00018"
+            },
+            {
+              "time": 1,
+              "name": "Comp 1_00019"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "bone2": {
+          "scale": [
+            {
+              "time": 0,
+              "x": 1,
+              "y": 1
+            },
+            {
+              "time": 0.0667,
+              "x": 1.2,
+              "y": 1.2
+            },
+            {
+              "time": 0.1667,
+              "x": 1,
+              "y": 1
+            },
+            {
+              "time": 0.2333,
+              "x": 1.1,
+              "y": 1.1
+            },
+            {
+              "time": 0.3333,
+              "x": 1,
+              "y": 1
+            }
+          ]
+        }
+      }
+    }
+  }
+}

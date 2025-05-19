@@ -1,0 +1,83 @@
+
+banner-x2 nap.png
+size: 2295, 1725
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Baner
+  rotate: false
+  xy: 2, 210
+  size: 1141, 308
+  orig: 1143, 310
+  offset: 1, 1
+  index: -1
+Dc1
+  rotate: true
+  xy: 1860, 741
+  size: 378, 385
+  orig: 380, 387
+  offset: 1, 1
+  index: -1
+Dc2
+  rotate: true
+  xy: 1167, 43
+  size: 493, 690
+  orig: 495, 693
+  offset: 1, 1
+  index: -1
+Dc3
+  rotate: false
+  xy: 816, 4
+  size: 335, 204
+  orig: 337, 213
+  offset: 1, 1
+  index: -1
+Dc4
+  rotate: false
+  xy: 1972, 385
+  size: 321, 354
+  orig: 323, 356
+  offset: 1, 1
+  index: -1
+Dc5
+  rotate: false
+  xy: 1167, 1101
+  size: 691, 624
+  orig: 693, 626
+  offset: 1, 1
+  index: -1
+Dc6
+  rotate: false
+  xy: 1860, 1121
+  size: 425, 604
+  orig: 428, 606
+  offset: 2, 1
+  index: -1
+KhuyenMai
+  rotate: true
+  xy: 1859, 80
+  size: 659, 111
+  orig: 663, 115
+  offset: 2, 2
+  index: -1
+Light
+  rotate: false
+  xy: 2, 520
+  size: 1163, 1205
+  orig: 1165, 1209
+  offset: 1, 1
+  index: -1
+NapLanDau
+  rotate: false
+  xy: 2, 5
+  size: 812, 203
+  orig: 814, 205
+  offset: 1, 1
+  index: -1
+X2
+  rotate: false
+  xy: 1167, 538
+  size: 681, 561
+  orig: 695, 576
+  offset: 8, 7
+  index: -1

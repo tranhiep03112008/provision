@@ -1,0 +1,104 @@
+
+samIcon.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+k1
+  rotate: false
+  xy: 343, 143
+  size: 104, 111
+  orig: 104, 111
+  offset: 0, 0
+  index: -1
+k2
+  rotate: false
+  xy: 548, 152
+  size: 86, 102
+  orig: 86, 102
+  offset: 0, 0
+  index: -1
+k3
+  rotate: true
+  xy: 2, 2
+  size: 64, 88
+  orig: 64, 88
+  offset: 0, 0
+  index: -1
+k4
+  rotate: false
+  xy: 636, 160
+  size: 76, 94
+  orig: 76, 94
+  offset: 0, 0
+  index: -1
+l
+  rotate: false
+  xy: 714, 180
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+o
+  rotate: false
+  xy: 191, 74
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+o1
+  rotate: false
+  xy: 343, 114
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+q
+  rotate: false
+  xy: 449, 151
+  size: 97, 103
+  orig: 97, 103
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 815, 227
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 92, 3
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 92, 29
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+sam
+  rotate: false
+  xy: 714, 209
+  size: 99, 45
+  orig: 99, 45
+  offset: 0, 0
+  index: -1
+tron1
+  rotate: false
+  xy: 191, 103
+  size: 150, 151
+  orig: 150, 151
+  offset: 0, 0
+  index: -1
+tron2
+  rotate: false
+  xy: 2, 68
+  size: 187, 186
+  orig: 187, 186
+  offset: 0, 0
+  index: -1

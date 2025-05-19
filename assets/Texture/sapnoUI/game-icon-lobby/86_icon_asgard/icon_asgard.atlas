@@ -1,0 +1,83 @@
+
+icon_asgard.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bgggg
+  rotate: false
+  xy: 2, 109
+  size: 184, 368
+  orig: 184, 368
+  offset: 0, 0
+  index: -1
+dau
+  rotate: true
+  xy: 217, 79
+  size: 86, 159
+  orig: 86, 159
+  offset: 0, 0
+  index: -1
+sao
+  rotate: false
+  xy: 385, 162
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+set1
+  rotate: false
+  xy: 681, 217
+  size: 132, 260
+  orig: 132, 260
+  offset: 0, 0
+  index: -1
+set2
+  rotate: false
+  xy: 532, 214
+  size: 147, 263
+  orig: 147, 263
+  offset: 0, 0
+  index: -1
+shadoww
+  rotate: false
+  xy: 815, 268
+  size: 170, 209
+  orig: 170, 209
+  offset: 0, 0
+  index: -1
+tayphai
+  rotate: false
+  xy: 385, 209
+  size: 145, 268
+  orig: 145, 268
+  offset: 0, 0
+  index: -1
+taytrai
+  rotate: true
+  xy: 217, 2
+  size: 75, 248
+  orig: 75, 248
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 815, 190
+  size: 191, 76
+  orig: 191, 76
+  offset: 0, 0
+  index: -1
+text2
+  rotate: false
+  xy: 2, 7
+  size: 213, 100
+  orig: 213, 100
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 188, 167
+  size: 195, 310
+  orig: 195, 310
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+thanQuayIcon.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+T
+  rotate: false
+  xy: 862, 171
+  size: 71, 69
+  orig: 71, 69
+  offset: 0, 0
+  index: -1
+a
+  rotate: false
+  xy: 190, 44
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+aa
+  rotate: false
+  xy: 708, 163
+  size: 75, 77
+  orig: 75, 77
+  offset: 0, 0
+  index: -1
+h
+  rotate: false
+  xy: 935, 170
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mu
+  rotate: false
+  xy: 342, 111
+  size: 144, 129
+  orig: 144, 129
+  offset: 0, 0
+  index: -1
+n
+  rotate: false
+  xy: 785, 171
+  size: 75, 69
+  orig: 75, 69
+  offset: 0, 0
+  index: -1
+q
+  rotate: true
+  xy: 108, 10
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
+s1
+  rotate: true
+  xy: 56, 2
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 2, 3
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+s3
+  rotate: false
+  xy: 488, 137
+  size: 108, 103
+  orig: 108, 103
+  offset: 0, 0
+  index: -1
+s4
+  rotate: false
+  xy: 598, 137
+  size: 108, 103
+  orig: 108, 103
+  offset: 0, 0
+  index: -1
+tron1
+  rotate: false
+  xy: 190, 88
+  size: 150, 152
+  orig: 150, 152
+  offset: 0, 0
+  index: -1
+tron2
+  rotate: false
+  xy: 2, 53
+  size: 186, 187
+  orig: 186, 187
+  offset: 0, 0
+  index: -1
+u
+  rotate: false
+  xy: 234, 44
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+y
+  rotate: false
+  xy: 275, 44
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1

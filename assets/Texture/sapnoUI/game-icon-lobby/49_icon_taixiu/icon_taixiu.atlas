@@ -1,0 +1,62 @@
+
+icon_taixiu.png
+size: 872,872
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: true
+  xy: 246, 58
+  size: 185, 203
+  orig: 185, 203
+  offset: 0, 0
+  index: -1
+dice (1)
+  rotate: true
+  xy: 623, 682
+  size: 188, 172
+  orig: 195, 179
+  offset: 4, 4
+  index: -1
+dice (2)
+  rotate: true
+  xy: 2, 2
+  size: 241, 242
+  orig: 247, 249
+  offset: 3, 4
+  index: -1
+khung
+  rotate: false
+  xy: 451, 63
+  size: 184, 180
+  orig: 184, 180
+  offset: 0, 0
+  index: -1
+khung-light
+  rotate: true
+  xy: 623, 506
+  size: 174, 161
+  orig: 174, 169
+  offset: 0, 8
+  index: -1
+light
+  rotate: false
+  xy: 2, 245
+  size: 619, 625
+  orig: 631, 625
+  offset: 12, 0
+  index: -1
+tai
+  rotate: false
+  xy: 623, 326
+  size: 132, 85
+  orig: 132, 85
+  offset: 0, 0
+  index: -1
+xiu
+  rotate: false
+  xy: 623, 413
+  size: 159, 91
+  orig: 159, 91
+  offset: 0, 0
+  index: -1

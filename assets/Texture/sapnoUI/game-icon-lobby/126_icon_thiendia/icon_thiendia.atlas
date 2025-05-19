@@ -1,0 +1,62 @@
+
+icon_thiendia.png
+size: 880,188
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+amduong1
+  rotate: false
+  xy: 681, 44
+  size: 142, 142
+  orig: 144, 144
+  offset: 1, 1
+  index: -1
+amduong2
+  rotate: false
+  xy: 519, 26
+  size: 160, 160
+  orig: 162, 162
+  offset: 1, 1
+  index: -1
+bg
+  rotate: true
+  xy: 184, 12
+  size: 174, 170
+  orig: 176, 172
+  offset: 1, 1
+  index: -1
+dia
+  rotate: true
+  xy: 825, 9
+  size: 72, 53
+  orig: 77, 59
+  offset: 3, 3
+  index: -1
+khung
+  rotate: true
+  xy: 2, 2
+  size: 184, 180
+  orig: 186, 182
+  offset: 1, 1
+  index: -1
+khung-light
+  rotate: true
+  xy: 356, 12
+  size: 174, 161
+  orig: 176, 172
+  offset: 1, 10
+  index: -1
+light
+  rotate: false
+  xy: 681, 7
+  size: 35, 35
+  orig: 41, 41
+  offset: 3, 3
+  index: -1
+thien
+  rotate: true
+  xy: 825, 83
+  size: 103, 47
+  orig: 105, 49
+  offset: 1, 1
+  index: -1

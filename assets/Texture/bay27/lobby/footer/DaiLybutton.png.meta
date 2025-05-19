@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "132f9f85-77da-4d12-b0d4-056261d06504",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "DaiLybutton": {
+      "ver": "1.0.4",
+      "uuid": "147d0cd6-83a6-46e6-808e-1654ba02a5ca",
+      "rawTextureUuid": "132f9f85-77da-4d12-b0d4-056261d06504",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -16,
+      "offsetY": 3,
+      "trimX": 3,
+      "trimY": 3,
+      "width": 986,
+      "height": 244,
+      "rawWidth": 1024,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

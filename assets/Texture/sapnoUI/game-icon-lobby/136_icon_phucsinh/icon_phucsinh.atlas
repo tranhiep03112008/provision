@@ -1,0 +1,55 @@
+
+icon_phucsinh.png
+size: 808,544
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: true
+  xy: 2, 208
+  size: 332, 673
+  orig: 332, 673
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: true
+  xy: 582, 2
+  size: 204, 162
+  orig: 204, 162
+  offset: 0, 0
+  index: -1
+line boder
+  rotate: true
+  xy: 2, 22
+  size: 184, 368
+  orig: 184, 368
+  offset: 0, 0
+  index: -1
+opacity
+  rotate: true
+  xy: 372, 27
+  size: 179, 208
+  orig: 179, 209
+  offset: 0, 0
+  index: -1
+phuc
+  rotate: true
+  xy: 746, 134
+  size: 95, 52
+  orig: 96, 52
+  offset: 1, 0
+  index: -1
+sinh
+  rotate: true
+  xy: 746, 47
+  size: 85, 46
+  orig: 86, 47
+  offset: 1, 1
+  index: -1
+tuong
+  rotate: false
+  xy: 677, 231
+  size: 128, 309
+  orig: 128, 309
+  offset: 0, 0
+  index: -1

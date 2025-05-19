@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "99b97fa6-41c1-4a6d-a52a-a45f0c939699",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 174,
+  "height": 174,
+  "platformSettings": {},
+  "subMetas": {
+    "hoa_van_xoay": {
+      "ver": "1.0.4",
+      "uuid": "ddfc67a3-37f3-4d31-983d-9cd0c879d92f",
+      "rawTextureUuid": "99b97fa6-41c1-4a6d-a52a-a45f0c939699",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 174,
+      "height": 174,
+      "rawWidth": 174,
+      "rawHeight": 174,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

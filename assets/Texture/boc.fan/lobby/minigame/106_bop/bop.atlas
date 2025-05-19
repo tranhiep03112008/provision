@@ -1,0 +1,62 @@
+
+bop.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6
+  rotate: false
+  xy: 910, 193
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+bg
+  rotate: true
+  xy: 276, 48
+  size: 203, 140
+  orig: 203, 140
+  offset: 0, 0
+  index: -1
+car
+  rotate: true
+  xy: 418, 15
+  size: 236, 112
+  orig: 236, 112
+  offset: 0, 0
+  index: -1
+light-1
+  rotate: false
+  xy: 2, 38
+  size: 272, 213
+  orig: 272, 213
+  offset: 0, 0
+  index: -1
+light-2
+  rotate: true
+  xy: 532, 62
+  size: 189, 119
+  orig: 189, 119
+  offset: 0, 0
+  index: -1
+light-3
+  rotate: false
+  xy: 653, 110
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+name
+  rotate: false
+  xy: 724, 56
+  size: 184, 52
+  orig: 184, 52
+  offset: 0, 0
+  index: -1
+tiasang
+  rotate: false
+  xy: 532, 2
+  size: 190, 58
+  orig: 190, 58
+  offset: 0, 0
+  index: -1

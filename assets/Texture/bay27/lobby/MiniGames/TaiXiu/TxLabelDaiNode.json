@@ -1,0 +1,182 @@
+{
+  "ID": "b8814fbf-1137-4672-9118-5cb25d3e278f",
+  "Version": "3.10.0.0",
+  "Name": "TxLabelDaiNode",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 911,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleX": 1
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0,
+              "Y": 0
+            },
+            "Scale": {
+              "ScaleX": 1,
+              "ScaleY": 1
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0,
+              "Y": 0
+            },
+            "PreSize": {
+              "X": 0,
+              "Y": 0
+            },
+            "LeftMargin": -75,
+            "RightMargin": -75,
+            "TopMargin": -37.5,
+            "BottomMargin": -37.5,
+            "Tag": 964,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "TxImageX/light-win.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 75,
+                  "Y": 37.5
+                },
+                "Scale": {
+                  "ScaleX": 1.5,
+                  "ScaleY": 1.5
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0133,
+                  "Y": 2.04
+                },
+                "LeftMargin": -1,
+                "RightMargin": -1,
+                "TopMargin": -39,
+                "BottomMargin": -39,
+                "Tag": 815,
+                "ActionTag": -1767857668,
+                "Size": {
+                  "X": 152,
+                  "Y": 153
+                },
+                "Name": "sprSideLblBg",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "TxImageX/lblTaiSang.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 75,
+                  "Y": 46.5
+                },
+                "Scale": {
+                  "ScaleX": 1,
+                  "ScaleY": 1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.62
+                },
+                "PreSize": {
+                  "X": 0.9733,
+                  "Y": 1.24
+                },
+                "LeftMargin": 2,
+                "RightMargin": 2,
+                "TopMargin": -18,
+                "Tag": 816,
+                "ActionTag": -1264448308,
+                "Size": {
+                  "X": 146,
+                  "Y": 93
+                },
+                "Name": "sprSideLbl",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -131501117,
+            "Size": {
+              "X": 150,
+              "Y": 75
+            },
+            "Name": "pnlLabel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0,
+          "Y": 0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "TxImageX/lblTaiSang.png",
+        "TxImageX/light-win.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

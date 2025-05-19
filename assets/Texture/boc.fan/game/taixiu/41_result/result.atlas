@@ -1,0 +1,62 @@
+
+result.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chu_tai
+  rotate: false
+  xy: 835, 434
+  size: 105, 69
+  orig: 105, 69
+  offset: 0, 0
+  index: -1
+chu_xiu
+  rotate: false
+  xy: 2, 2
+  size: 116, 73
+  orig: 116, 73
+  offset: 0, 0
+  index: -1
+effwintx_0000_7
+  rotate: false
+  xy: 643, 124
+  size: 190, 188
+  orig: 190, 188
+  offset: 0, 0
+  index: -1
+effwintx_0001_6
+  rotate: false
+  xy: 643, 314
+  size: 190, 189
+  orig: 190, 189
+  offset: 0, 0
+  index: -1
+effwintx_0003_4
+  rotate: false
+  xy: 432, 302
+  size: 209, 201
+  orig: 209, 201
+  offset: 0, 0
+  index: -1
+effwintx_0004_3
+  rotate: false
+  xy: 2, 289
+  size: 220, 214
+  orig: 220, 214
+  offset: 0, 0
+  index: -1
+effwintx_0005_2
+  rotate: false
+  xy: 224, 291
+  size: 206, 212
+  orig: 206, 212
+  offset: 0, 0
+  index: -1
+effwintx_0006_1
+  rotate: false
+  xy: 2, 77
+  size: 217, 210
+  orig: 217, 210
+  offset: 0, 0
+  index: -1

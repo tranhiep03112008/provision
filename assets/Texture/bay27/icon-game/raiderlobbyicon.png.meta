@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "c698f5f9-439e-4928-bfd2-c3feb02f2b5f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "raiderlobbyicon": {
+      "ver": "1.0.4",
+      "uuid": "9c6f1b69-6372-443c-a26a-279e25150f25",
+      "rawTextureUuid": "c698f5f9-439e-4928-bfd2-c3feb02f2b5f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -15,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 2,
+      "width": 988,
+      "height": 252,
+      "rawWidth": 1024,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

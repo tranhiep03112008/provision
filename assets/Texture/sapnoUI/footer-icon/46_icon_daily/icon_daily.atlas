@@ -1,0 +1,55 @@
+
+icon_daily.png
+size: 908,180
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 558, 47
+  size: 131, 131
+  orig: 133, 133
+  offset: 1, 1
+  index: -1
+bg2
+  rotate: false
+  xy: 392, 14
+  size: 164, 164
+  orig: 166, 166
+  offset: 1, 1
+  index: -1
+buc
+  rotate: false
+  xy: 691, 110
+  size: 151, 68
+  orig: 151, 68
+  offset: 0, 0
+  index: -1
+crown
+  rotate: false
+  xy: 691, 19
+  size: 104, 89
+  orig: 106, 91
+  offset: 1, 1
+  index: -1
+dai
+  rotate: true
+  xy: 844, 86
+  size: 92, 59
+  orig: 96, 62
+  offset: 2, 2
+  index: -1
+ly
+  rotate: false
+  xy: 797, 25
+  size: 69, 59
+  orig: 73, 62
+  offset: 2, 1
+  index: -1
+star
+  rotate: false
+  xy: 2, 2
+  size: 388, 176
+  orig: 406, 189
+  offset: 7, 9
+  index: -1

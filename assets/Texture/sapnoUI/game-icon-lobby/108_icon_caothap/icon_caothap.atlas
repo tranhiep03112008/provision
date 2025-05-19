@@ -1,0 +1,55 @@
+
+icon_caothap.png
+size: 700,184
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: true
+  xy: 658, 25
+  size: 108, 39
+  orig: 110, 41
+  offset: 1, 1
+  index: -1
+bg
+  rotate: false
+  xy: 188, 12
+  size: 174, 170
+  orig: 174, 170
+  offset: 0, 0
+  index: -1
+cay
+  rotate: false
+  xy: 540, 135
+  size: 133, 47
+  orig: 135, 49
+  offset: 1, 1
+  index: -1
+khung
+  rotate: false
+  xy: 2, 2
+  size: 184, 180
+  orig: 186, 182
+  offset: 1, 1
+  index: -1
+khung-light
+  rotate: false
+  xy: 364, 21
+  size: 174, 161
+  orig: 176, 172
+  offset: 1, 10
+  index: -1
+mten1
+  rotate: true
+  xy: 540, 72
+  size: 61, 116
+  orig: 61, 116
+  offset: 0, 0
+  index: -1
+mten2
+  rotate: true
+  xy: 540, 12
+  size: 58, 110
+  orig: 58, 110
+  offset: 0, 0
+  index: -1

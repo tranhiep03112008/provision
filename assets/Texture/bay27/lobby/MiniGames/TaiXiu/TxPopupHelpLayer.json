@@ -1,0 +1,431 @@
+{
+  "ID": "b935f2ff-8cf4-4f61-a60e-94f054aa8433",
+  "Version": "3.10.0.0",
+  "Name": "TxPopupHelpLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 220,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "TxPopupBaseNode.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0,
+              "Y": 0
+            },
+            "Scale": {
+              "ScaleX": 1,
+              "ScaleY": 1
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0,
+              "Y": 0
+            },
+            "PreSize": {
+              "X": 0,
+              "Y": 0
+            },
+            "RightMargin": 1280,
+            "TopMargin": 720,
+            "Tag": 221,
+            "ActionTag": 1990221792,
+            "Size": {
+              "X": 0,
+              "Y": 0
+            },
+            "VisibleForFrame": false,
+            "Name": "baseNode1",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0,
+              "Y": 0
+            },
+            "Scale": {
+              "ScaleX": 1,
+              "ScaleY": 1
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0,
+              "Y": 0
+            },
+            "PreSize": {
+              "X": 0,
+              "Y": 0
+            },
+            "RightMargin": 1280,
+            "TopMargin": 720,
+            "Tag": 3541,
+            "Children": [
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleX": 1,
+                  "ScaleY": 0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Scale": {
+                  "ScaleX": 1,
+                  "ScaleY": 1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "PreSize": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "RightMargin": -1280,
+                "TopMargin": -720,
+                "Tag": 3542,
+                "Children": [
+                  {
+                    "FontSize": 36,
+                    "LabelText": "Thông Báo",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "TxFonts/UTM Sharnay.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineSize": 2,
+                    "OutlineColor": {
+                      "R": 54,
+                      "G": 30,
+                      "B": 2
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2,
+                    "ShadowOffsetY": -2,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0,
+                      "Y": 649.9998
+                    },
+                    "Scale": {
+                      "ScaleX": 1,
+                      "ScaleY": 1
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0,
+                      "Y": 0.9028
+                    },
+                    "PreSize": {
+                      "X": 0.1484,
+                      "Y": 0.0708
+                    },
+                    "LeftMargin": -95,
+                    "RightMargin": 1185,
+                    "TopMargin": 44.5002,
+                    "BottomMargin": 624.4998,
+                    "Tag": 96,
+                    "ActionTag": 1403907876,
+                    "Size": {
+                      "X": 190,
+                      "Y": 51
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "txtTitle",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "TxImageX/popup-big.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 390,
+                    "Scale9OriginY": 230,
+                    "Scale9Width": 134,
+                    "Scale9Height": 160,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 640,
+                      "Y": 360
+                    },
+                    "Scale": {
+                      "ScaleX": 1,
+                      "ScaleY": 1
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.9375,
+                      "Y": 0.8944
+                    },
+                    "LeftMargin": 40,
+                    "RightMargin": 40,
+                    "TopMargin": 38,
+                    "BottomMargin": 38,
+                    "Tag": 3543,
+                    "ActionTag": -1086306158,
+                    "Size": {
+                      "X": 1200,
+                      "Y": 644
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "TxImageX/huongdan-title.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 640,
+                      "Y": 619.2
+                    },
+                    "Scale": {
+                      "ScaleX": 1.3,
+                      "ScaleY": 1.3
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.86
+                    },
+                    "PreSize": {
+                      "X": 0.1633,
+                      "Y": 0.0611
+                    },
+                    "LeftMargin": 535.5,
+                    "RightMargin": 535.5,
+                    "TopMargin": 78.8,
+                    "BottomMargin": 597.2,
+                    "Tag": 1030,
+                    "ActionTag": 360856284,
+                    "Size": {
+                      "X": 209,
+                      "Y": 44
+                    },
+                    "Name": "Sprite_2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "TxImageRevise/close-btn.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 23,
+                    "Scale9OriginY": 23,
+                    "Scale9Width": 34,
+                    "Scale9Height": 33,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2,
+                    "ShadowOffsetY": -2,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1203.3706,
+                      "Y": 644.5822
+                    },
+                    "Scale": {
+                      "ScaleX": 1,
+                      "ScaleY": 1
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.9401,
+                      "Y": 0.8953
+                    },
+                    "PreSize": {
+                      "X": 0.0625,
+                      "Y": 0.1097
+                    },
+                    "LeftMargin": 1163.3706,
+                    "RightMargin": 36.6294,
+                    "TopMargin": 35.9178,
+                    "BottomMargin": 605.0822,
+                    "Tag": 3544,
+                    "ActionTag": 1487236706,
+                    "Size": {
+                      "X": 80,
+                      "Y": 79
+                    },
+                    "Name": "btnClose",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": -736476828,
+                "Size": {
+                  "X": 1280,
+                  "Y": 720
+                },
+                "Name": "pnlBg",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -1532397064,
+            "Size": {
+              "X": 0,
+              "Y": 0
+            },
+            "Name": "baseNode",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "TxImageX/huongdan-trenduoi.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640,
+              "Y": 324
+            },
+            "Scale": {
+              "ScaleX": 1,
+              "ScaleY": 1
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.45
+            },
+            "PreSize": {
+              "X": 0.8594,
+              "Y": 0.6417
+            },
+            "LeftMargin": 90,
+            "RightMargin": 90,
+            "TopMargin": 165,
+            "BottomMargin": 93,
+            "Tag": 802,
+            "ActionTag": 52783025,
+            "Size": {
+              "X": 1100,
+              "Y": 462
+            },
+            "Name": "Sprite_1",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280,
+          "Y": 720
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "TxFonts/UTM Sharnay.ttf",
+        "TxImageRevise/close-btn.png",
+        "TxImageX/huongdan-title.png",
+        "TxImageX/huongdan-trenduoi.png",
+        "TxImageX/popup-big.png",
+        "TxPopupBaseNode.json"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

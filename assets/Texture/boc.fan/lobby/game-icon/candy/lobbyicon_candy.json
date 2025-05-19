@@ -1,0 +1,96 @@
+{
+"skeleton": { "hash": "wAIiGSSEXe7KkvWrkZjYf11Mixk", "spine": "3.6.53", "width": 186, "height": 180, "images": "./Lobby_Mới/images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "Layer 186 copy 2", "parent": "root", "x": -36.07, "y": 26.19, "scaleX": 0.992, "scaleY": 0.992 },
+	{ "name": "Layer 186 copy 3", "parent": "root", "x": 48.62, "y": -11.73, "scaleX": 0.76, "scaleY": 0.76 },
+	{ "name": "Layer 186 copy 4", "parent": "root", "x": -27.85, "y": -38.27, "scaleX": 0.771, "scaleY": 0.771 },
+	{ "name": "canbg", "parent": "root", "x": -0.58, "y": 41.23 },
+	{ "name": "cand1", "parent": "root", "x": 2.2, "y": 16.91 },
+	{ "name": "cantexxt", "parent": "root", "x": -2.23, "y": -58.09 }
+],
+"slots": [
+	{ "name": "canbg", "bone": "canbg", "attachment": "canbg" },
+	{ "name": "cand1", "bone": "cand1", "attachment": "cand1" },
+	{ "name": "cand2", "bone": "cand1", "color": "ffffff00", "attachment": "cand1", "blend": "additive" },
+	{ "name": "cantexxt", "bone": "cantexxt", "attachment": "cantexxt" },
+	{ "name": "Layer 186 copy 2", "bone": "Layer 186 copy 2", "attachment": "Layer 186 copy 2" },
+	{ "name": "Layer 186 copy 3", "bone": "Layer 186 copy 3", "attachment": "Layer 186 copy 2" },
+	{ "name": "Layer 186 copy 4", "bone": "Layer 186 copy 4", "attachment": "Layer 186 copy 2" }
+],
+"skins": {
+	"default": {
+		"Layer 186 copy 2": {
+			"Layer 186 copy 2": { "x": 0.08, "y": 0.09, "width": 19, "height": 19 }
+		},
+		"Layer 186 copy 3": {
+			"Layer 186 copy 2": { "x": 0.08, "y": 0.09, "width": 19, "height": 19 }
+		},
+		"Layer 186 copy 4": {
+			"Layer 186 copy 2": { "x": 0.08, "y": 0.09, "width": 19, "height": 19 }
+		},
+		"canbg": {
+			"canbg": { "x": 2.18, "y": -39.01, "width": 186, "height": 180 }
+		},
+		"cand1": {
+			"cand1": { "x": -1.6, "y": -4.19, "width": 106, "height": 105 }
+		},
+		"cand2": {
+			"cand1": { "x": -1.6, "y": -4.19, "width": 106, "height": 105 }
+		},
+		"cantexxt": {
+			"cantexxt": { "x": 1.33, "y": 2.81, "width": 151, "height": 63 }
+		}
+	}
+},
+"animations": {
+	"Idle": {
+		"slots": {
+			"cand2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.6667, "color": "ffffff3b" },
+					{ "time": 1.3333, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"Layer 186 copy 2": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.3333, "x": 1.653, "y": 1.653 },
+					{ "time": 0.6667, "x": 1, "y": 1 },
+					{ "time": 1, "x": 1.653, "y": 1.653 },
+					{ "time": 1.3333, "x": 1, "y": 1 }
+				]
+			},
+			"Layer 186 copy 3": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.3333, "x": 1.653, "y": 1.653 },
+					{ "time": 0.6667, "x": 1, "y": 1 },
+					{ "time": 1, "x": 1.653, "y": 1.653 },
+					{ "time": 1.3333, "x": 1, "y": 1 }
+				]
+			},
+			"Layer 186 copy 4": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.3333, "x": 1.653, "y": 1.653 },
+					{ "time": 0.6667, "x": 1, "y": 1 },
+					{ "time": 1, "x": 1.653, "y": 1.653 },
+					{ "time": 1.3333, "x": 1, "y": 1 }
+				]
+			},
+			"cand1": {
+				"scale": [
+					{ "time": 0, "x": 1.066, "y": 1.066 },
+					{ "time": 0.3, "x": 1.12, "y": 1.12 },
+					{ "time": 0.9667, "x": 1, "y": 1 },
+					{ "time": 1.3333, "x": 1.066, "y": 1.066 }
+				]
+			}
+		}
+	}
+}
+}
